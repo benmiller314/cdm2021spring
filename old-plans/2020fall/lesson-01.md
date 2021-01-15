@@ -18,7 +18,7 @@
 
 ## 1. Introduction to the course and to each other
 <div class="alert alert-success">
-I'd like to know more about you! Head on over to <a href="http://bit.ly/cdm2021survey">bit.ly/cdm2021survey</a> and fill in the first page or two. (I'll give you time to work on the rest later, so please leave the tab open for now.)
+I'd like to know more about you! Head on over to <a href="http://bit.ly/cdm2019survey">bit.ly/cdm2019survey</a> and fill in the first page or two. (I'll give you time to work on the rest later, so please leave the tab open for now.)
 </div>
 
 When you've done that (or after about 5 minutes), please:
@@ -50,7 +50,7 @@ EXT: If you've done all that and you're waiting, pick one item on each list to w
 </details>
 
 ## 2. A letter from Ben
-It's part of the [syllabus]({{site.github_url}}/uploads).
+It's part of the syllabus.
 
 ## 3. Write a short letter back to Ben.
 You can do this on the third page of that same survey, which you should still have open.
@@ -60,13 +60,13 @@ Some considerations you might address include:
 * What were your expectations for the course coming in? What were your goals? If they’ve changed at all after reading / hearing my letter, how?
 * What, if anything, surprised you in my letter? Why? If you have any questions or concerns, please ask them!
 * If anything in my letter particularly excites you, or helps you, please let me know that, too!
-* What are your habits as a reader, of digital media or otherwise? Do you like to read? What do you like to read? Where do you do your reading? When? Has this changed, that you’re aware of?
-* What are your habits as a writer (again, digital or otherwise)? What assets do you bring to the class that might help you or your classmates? What challenges do you think you’ll face?
+* What are your habits as a reader? Do you like to read? What do you like to read? Where do you do your reading? When? Has this changed, that you’re aware of?
+* What are your habits as a writer? What assets do you bring to the class that might help you or your classmates? What challenges do you think you’ll face?
 * Consider telling a story or two about a particular experience with reading or writing, multimodal or otherwise, that helps clarify something you want me to understand. Use concrete details to make the story present to me; help me get to know this memory through your eyes.
 
 Don’t feel that you have to answer every single one of these questions, and especially don’t feel you have to answer them in order. Similarly, don’t feel your letter must be limited to only those questions covered in the bullet points.
 
-* EXT: If you finish early, think about making the letter multimodal. e.g. What images would you want to add? How might you arrange the images and text?
+* EXT: If you finish early, think about making the letter multimodal. What images would you want to add? How might you arrange the images and text?
 * EXT: If you finish that, too, consider audience: how might you want to change this letter for posting an introduction to yourself on the course's (public) website, vs. just sending to me?
 * EXT: Finally, if you're still waiting for others, go ahead and read the rest of this page, starting from the URL in the syllabus. Then you can start the homework until we're ready as a class to sync up again.
 
@@ -74,7 +74,7 @@ Don’t feel that you have to answer every single one of these questions, and es
 One of the tasks for homework will be to post a brief introduction to yourself on our course discussion forum. We'll be using GitHub Issues for this purpose; I'll <a href="{{site.github.issues_url}}/1">demo quickly</a>, in case you haven't seen this before.
 
 <div class="alert alert-warning">
-But first, an important consideration: <em>what web handle do you want to use for yourself in this course?</em> Will it be the same one you generally use for social media? Will you use your real name, or something more anonymous? There are pros and cons with each choice. We can discuss, if you'd like!
+But first, an important consideration: <em>what web handle do you want to use for yourself in this course?</em> Will it be the same one you generally use for social media? Will you use your real name, or something more anonymous? There are pros and cons with each choice.
 </div>
 
 
@@ -84,11 +84,9 @@ But first, an important consideration: <em>what web handle do you want to use fo
  -  submit the survey and letter, if you haven't yet
 
 * **For next time**:
- 1. **Log into Canvas and complete the [two short syllabus-related modules](https://canvas.pitt.edu/courses/78948/modules)**: one on self- and community-care, and one on the grading contract. There's a forum at the end where you can sign on to this grading format, ask questions about it, or even propose changes. (If we change it, though, it'll be by *collective* bargaining.) This is about the last thing I'll ask you to do on Canvas.
- 2. Afterward, if you haven't yet, **read** the [full syllabus]({{site.github_url}}/uploads), which you should have received by email. (If you don't have it, you can download a copy on the Uploads page of this site.) It includes the above information, plus a little more.
+ 1. **Read** the [full syllabus]({{site.github_url}}/uploads), which you should have received by email. (If you lost it, you can download a copy on the Uploads page of this site.) Then **go into Canvas and complete the [Grading Contract module](https://canvas.pitt.edu/courses/49432/modules#module_242531).** There's a forum at the end where you can sign on to this grading format, ask questions about it, or even propose changes. (If we change it, though, it'll be by *collective* bargaining.)
+ 2. **Read** Madeline Sorapure's interactive webtext, ["Five Principles of New Media: or, Playing Lev Manovich"](http://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm). *NB: This requires Flash to view, and therefore will not work in Google Chrome – and will probably require your explicit permission to open in Firefox or Safari.* It's published on a reputable academic journal. I believe it's safe or I wouldn't assign it. *After you've finished the Flash version, skim the pdf version.*
+ 3. **Watch** Michael Wesch's short video-essay, [“Information R/evolution”](http://www.youtube.com/watch?v=-4CV05HyAbM)
  4. **Respond** to the [Tech Comfort Survey](http://bit.ly/cdm2019survey) if you haven't done so in class
- 5. **Join** [GitHub](https://github.com/) if you haven't yet,
- 6. **and post** a brief introduction to yourself on the <a href="{{site.github.issues_url}}/1">issue queue</a>.
-    - Feel free to excerpt from the letter you wrote me today, or to adapt it for the wider audience, if you want; you should have received a copy of your post at whichever email address you used on the form.
-    - If you'd like, feel free to include a link to that digital tool / app / website you wrote down at the start of class!
- 7. Finally, as prep for next class, please **read / play** through Tyler Su's ["Playing Lev Manovich"](https://tylersu.github.io/o/), which defines and illustrates five principles of new media. Be ready to talk about what you noticed, and what you wondered.
+ 5. **Join** [GitHub](https://github.com/) if you haven't yet, and
+ 6. **Post** a brief introduction to yourself on the <a href="{{site.github.issues_url}}/1">issue queue</a>. Feel free to excerpt from the letter you wrote me today, or to adapt it for the wider audience, if you want; you should have received a copy of your post at whichever email address you used on the form. And if you'd like, please do include a link to that digital tool / app / website you wrote down at the start of class!

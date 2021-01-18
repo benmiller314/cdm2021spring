@@ -39,7 +39,7 @@ HW for next time:
   - **and post** an introduction to yourself on <a href="{{site.github.issues_url}}/1">the issue queue</a>.
 * Prep for next class:
   - **Read / play** through Tyler Su's ["Playing Lev Manovich"](https://tylersu.github.io/o/). Be ready to talk about what you noticed, and what you wondered.
-  - If you don't already have one, **download / install** a plain text editor. I recommend [Atom](http://atom.io)
+  - If you don't already have one, **download / install** a plain text editor. I recommend [Atom](http://atom.io).
 
 
 
@@ -349,4 +349,4 @@ For next time:
 <!-- This div left intentionally blank for spacing -->
 </div>
 
-<p class="footnote"><a href="#ftnref2" id="ftn2"><sup>*</sup></a> If you're updating an existing project, I recommend doing this in a [new branch](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/managing-branches) of the old repository, instead.</p>
+<p class="footnote"><a href="#ftnref2" id="ftn2"><sup>*</sup></a> If you're updating an existing project, I recommend doing this in a <a href="https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/managing-branches">new branch</a> of the old repository, instead.</p>

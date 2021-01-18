@@ -84,11 +84,16 @@ But first, an important consideration: <em>what web handle do you want to use fo
  -  submit the survey and letter, if you haven't yet
 
 * **For next time**:
- 1. **Log into Canvas and complete the [two short syllabus-related modules](https://canvas.pitt.edu/courses/78948/modules)**: one on self- and community-care, and one on the grading contract. There's a forum at the end where you can sign on to this grading format, ask questions about it, or even propose changes. (If we change it, though, it'll be by *collective* bargaining.) This is about the last thing I'll ask you to do on Canvas.
- 2. Afterward, if you haven't yet, **read** the [full syllabus]({{site.github_url}}/uploads), which you should have received by email. (If you don't have it, you can download a copy on the Uploads page of this site.) It includes the above information, plus a little more.
- 4. **Respond** to the [Tech Comfort Survey](http://bit.ly/cdm2019survey) if you haven't done so in class
- 5. **Join** [GitHub](https://github.com/) if you haven't yet,
- 6. **and post** a brief introduction to yourself on the <a href="{{site.github.issues_url}}/1">issue queue</a>.
-    - Feel free to excerpt from the letter you wrote me today, or to adapt it for the wider audience, if you want; you should have received a copy of your post at whichever email address you used on the form.
-    - If you'd like, feel free to include a link to that digital tool / app / website you wrote down at the start of class!
- 7. Finally, as prep for next class, please **read / play** through Tyler Su's ["Playing Lev Manovich"](https://tylersu.github.io/o/), which defines and illustrates five principles of new media. Be ready to talk about what you noticed, and what you wondered.
+ 1. Some introductory info-sharing:
+    * **Log into Canvas and complete the [two short syllabus-related modules](https://canvas.pitt.edu/courses/78948/modules)**: one on self- and community-care, and one on the grading contract. There's a forum at the end where you can sign on to this grading format, ask questions about it, or even propose changes. (If we change it, though, it'll be by *collective* bargaining.)
+    * Afterward, if you haven't yet, **read** the [full syllabus]({{site.github_url}}/uploads), which you should have received by email. (If you don't have it, you can download a copy on the Uploads page of this site.) It includes the info from Canvas, plus a statement on course outcomes and my commitments to you.
+    * **Respond** to the [Tech Comfort Survey](http://bit.ly/cdm2021survey) if you haven't done so in class
+ 2. Some (somewhat) more extended writing
+    * **Join** [GitHub](https://github.com/) if you haven't yet,
+    * **and post** a brief introduction to yourself on the <a href="{{site.github.issues_url}}/1">issue queue</a>.
+      - Feel free to excerpt from the letter you wrote me today, or to adapt it for the wider audience, if you want; you should have received a copy of your post at whichever email address you used on the form.
+      -  If you'd like, feel free to include a link to that digital tool / app / website you wrote down at the start of class!
+ 3. Finally, some prep for next class:
+    * Please **read / play** through Tyler Su's ["Playing Lev Manovich"](https://tylersu.github.io/o/), which defines and illustrates five principles of new media. Be ready to talk about what you noticed, and what you wondered.
+    * If you don't already have one, **download / install** a plain text editor. I recommend [Atom](http://atom.io), which is free and cross-platform, but if you already use Notepad++ or SublimeText or something like that, you're fine.
+      - NB: Microsoft Word is *not* good enough for this purpose. Word files are very much not plain text, as you'll see if you replace the .docx with .zip and expand the result.

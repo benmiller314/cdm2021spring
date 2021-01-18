@@ -59,6 +59,7 @@ How?
 What does that mean??
 
 Per [the tutorial I'm assigning you for homework](https://internetingishard.com/html-and-css/introduction#html-css-and-javascript),
+
 > HTML is for adding meaning to raw content by marking it up.
 CSS is for formatting that marked up content.
 
@@ -131,6 +132,11 @@ The same is true in HTML, but it looks a little different:
 <p>You can think of them as being like <a href="https://xkcd.com/859/">parentheses</a>: In general, every HTML tag you open should close. (You can nest a complete pair of tags inside another pair (like these parentheses), but you can't close the outer pair before closing the inner pair without causing problems.)</p>
 </div>
 
+<!--
+FOR NEXT TIME:
+<div class="alert alert-white">
+Pro tip: Atom can automatically close the most recently opened tag. See Packages &gt; Bracket Matcher &gt; Close Current Tag, where you should also find a keyboard shortcut. (Way more convenient, I find.)</div> -->
+
 One nice thing about having the tags themselves marked by angle brackets is that you can add information to them:
 
 <table class="table table-bordered thead-light">
@@ -164,7 +170,7 @@ CSS rules to hit:
 2. paragraphs
 3. using Atom to auto-close tags
 4. no default spacing: let's change it!
-5. a div is like a layer-group: collect these things, operate on them together. it's a container.
+5. a div is like a layer-group: collect these things, operate on them together. It's a container.
 6. ids and # selectors
 7. classes and . selectors
  -->

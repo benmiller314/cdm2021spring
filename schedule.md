@@ -210,7 +210,7 @@ EXT: Self-paced tutorialing, using the lessons to build prelim pages of your own
 
 NEW AFTER 2020fall: Troubleshoot with Ben in a breakout room if your content doesn't work like the tutorial's.
 
-**BEN HW**: Record and post screencast on <nav><ul><li><a> and resizing with padding.
+**BEN HW**: Record and post screencast on <nav><ul><li><a>, removing bullets, and resizing with padding.
 
 -->
 

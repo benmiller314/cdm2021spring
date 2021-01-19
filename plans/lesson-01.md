@@ -83,6 +83,7 @@ But first, an important consideration: <em>what web handle do you want to use fo
 **Before you leave**, or by next class if you're participating asynchronously, please submit the survey and letter, if you haven't yet
 
 **For next time**:
+
 1. Some introductory info-sharing:
   * **Log into Canvas and complete the [two short syllabus-related modules](https://canvas.pitt.edu/courses/78948/modules)**: one on [self- and community-care](https://canvas.pitt.edu/courses/78948/pages/accessing-resources?module_item_id=1869862), and one on the [grading contract](https://canvas.pitt.edu/courses/78948/pages/contract-what?module_item_id=1868973). There's a forum at the end where you can sign on to this grading format, ask questions about it, or even propose changes. (If we change it, though, it'll be by *collective* bargaining.)
   * Afterward, if you haven't yet, **read** the [full syllabus]({{site.github_url}}/uploads), which you should have received by email. (If you don't have it, you can download a copy on the Uploads page of this site.) It includes the info from Canvas, plus a statement on course outcomes and my commitments to you.

@@ -223,9 +223,9 @@ details summary {
 details[open] {
     margin-bottom: 2em;
   	padding-bottom: 1em;
-  	-webkit-box-shadow: 0 8px 6px -4px #ccc;
-	     -moz-box-shadow: 0 8px 6px -4px #ccc;
-	          box-shadow: 0 8px 6px -4px #ccc;
+  	-webkit-box-shadow: 0 8px 6px -4px hsl(0, 0%, 66%);
+	     -moz-box-shadow: 0 8px 6px -4px hsl(0, 0%, 66%);
+	          box-shadow: 0 8px 6px -4px hsl(0, 0%, 66%);
 }
 
 

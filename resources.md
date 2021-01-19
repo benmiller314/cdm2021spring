@@ -18,10 +18,10 @@ Table of contents:
    - [Visuals](#visuals)
    - [Web Frameworks](#web-frameworks)
 * [Advice and Examples](#advice-and-examples)
-   - [Audio](#audio)
-   - [Visual](#visual)
+   - [Audio Editing / Soundwriting](#audio)
+   - [Visual Rhetoric and Design](#visual)
    - [Web Design](#web-design)
-   - [Interactive Narrative](#twine--interactive-narrative)
+   <!-- - [Interactive Narrative](#twine--interactive-narrative) -->
 * [File Compression](#file-compression)
 * [Other Resource Roundups](#other-resource-roundups)
 

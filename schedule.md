@@ -7,7 +7,7 @@ banneralt: "banner: phases of the moon"
 
 # Class-by-Class Schedule
 
-Assignments are listed (as HW) on the day they are assigned, and are **due at 9pm the night before**<a href="#ftn1" class="ftnref" id="ftnref1">[1]</a> the following class meeting, unless otherwise specified. You should in general also have access to all your work in class, so we can discuss and/or revise. Possible methods include [GitHub](https://github.com) (recommended), [Box](https://www.technology.pitt.edu/services/cloud-collaboration-box-and-onedrive) (next best thing), Dropbox, or flash drive.
+Assignments are listed (as HW) on the day they are assigned, and are **due at 9pm the night before**<a href="#ftn1" class="ftnref" id="ftnref1"><sup>[1]</sup></a> the following class meeting, unless otherwise specified. You should in general also have access to all your work in class, so we can discuss and/or revise. Possible methods include [GitHub](https://github.com) (recommended), [Box](https://www.technology.pitt.edu/services/cloud-collaboration-box-and-onedrive) (next best thing), Dropbox, or flash drive.
 
 <div class="panel panel-info">
 <div class="panel-body">
@@ -317,7 +317,7 @@ For next time:
   * Ford writes, "I read the change logs, and I think: <em>Humans can do things.</em>" **Read back** through your own change logs, i.e. the commit histories of your projects; skim through the lesson plans. What things have you done this semester?
   * **Choose** something from the course that you want to remember beyond this semester: a thing you or someone else made, or said, that struck a chord with you.
 * *Preparing one final project or revision:*
-  * Make a new repository<a href="#ftn2" id="ftnref2"><sup>*</sup></a> (GH, Box, or Drive) containing a task list for your project – along with proposed roles for your team members, if you have a team of more than one.
+  * Make a new repository<a href="#ftn2" id="ftnref2"><sup>[2]</sup></a> (GH, Box, or Drive) containing a task list for your project – along with proposed roles for your team members, if you have a team of more than one.
     - Post a link to this repository on the [Issue Queue]({{site.github.issues_url}}).
     - Decide (together, if applicable) what would constitute a minimum deliverable project, and what series of stretch goals you'll try for beyond that minimum. Push these updated goals to the repo.
 
@@ -345,8 +345,10 @@ For next time:
 * Work to complete your final portfolio (due in our final exam slot, which we now know is Monday, November 30th – the first Monday after Thanksgiving – at 2pm)
 
 
-<div style="height:3em;">
-<!-- This div left intentionally blank for spacing -->
-</div>
+<div class="footnote-block" style="margin-top:3em;">
 
-<p class="footnote"><a href="#ftnref2" id="ftn2"><sup>*</sup></a> If you're updating an existing project, I recommend doing this in a <a href="https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/managing-branches">new branch</a> of the old repository, instead.</p>
+<p class="footnote"><a href="#ftnref1 id=ftn1">[1]</a> This early deadline is not my way of being mean; it's just that sometimes things will take longer than you expect, and I'd really like for you to be able to sleep, and for me to be able to look over your work in the morning before class. Those latter two things are the real priorities that the "night before" policy is meant to achieve. <a href="#ftnref1"><em>~jump back~</em></p>
+
+<p class="footnote"><a href="#ftnref2" id="ftn2">[2]</a> If you're updating an existing project, I recommend doing this in a <a href="https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/managing-branches">new branch</a> of the old repository, instead. <a href="#ftnref1"><em>~jump back~</em></p>
+
+</div>

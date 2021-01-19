@@ -181,7 +181,7 @@ For next time:
 * **By 11:59pm on Sunday,** complete – at least for now – your visual argument, along with a prose reflection that incorporates images from your feedback and screenshots of your GIMP project.
 * EXT: If you haven't yet, spend some time getting to know your plain-text editor.
   - Can it show two or more files side by side? Can it preview how an html file will render? Does it allow plugins or extensions to enable either of those things?
-  - If you're using Atom, you may want to check out the intro tutorials on the course [Resources page](https://benmiller314.github.io/cdm2020fall/resources#web-design:~:text=good%20tutorials%20on%20working%20with%20Atom).
+  - If you're using Atom, you may want to check out the intro tutorials on the course [Resources page]({{site.github_url}}/resources#web-design:~:text=good%20tutorials%20on%20working%20with%20Atom).
 
 
 <h2 id="unit-4">Unit IV: Webslinging (HTML + CSS markup)</h2>
@@ -257,9 +257,9 @@ For next time:
 -->
 
 For next time:
-* **Continue** the [HTML &amp; CSS tutorial](https://internetingishard.com/html-and-css/), adding at least Semantic HTML (12) and Web Typography (14); if you're encountering weird layout intransigence, you may want to try Advanced Positioning (9).
-  - Remember that the main tools for layout now in use are Grid and Flex; you can probably skip Float except for particular use-cases (e.g. text that wraps around an image).
-  - **Email me with any questions**, noting that I can help fastest if you include screenshots and links to your site/repo. Better yet, [create a New Issue](https://github.com/benmiller314/cdm2020fall/issues/new/choose)! Then my answer to you can help others, too.
+* **Continue** the [HTML &amp; CSS tutorial](https://internetingishard.com/html-and-css/), adding at least Semantic HTML (12) and Web Typography (14). If you're encountering weird layout intransigence, you may also want to try Advanced Positioning (9).
+  - Remember that the main tools for layout now in use are Grid and Flex; you can probably skip the chapter on Float except for particular use-cases (e.g. text that wraps around an image).
+  - **Email me with any questions**, noting that I can help fastest if you include screenshots and links to your site/repo. Better yet, [create a New Issue]({{site.github.issues_url}}/new/choose)! Then my answer to you can help others, too.
 * **Compose and push** a second website preview, now adding or updating layout. A full draft of your website project is due in one week.
 
 <h3><a href="{{site.github_url}}/plans/lesson-21">Lesson 21, Thursday 4/1</a> – Web Unit Criteria and Stretch Goals</h3>

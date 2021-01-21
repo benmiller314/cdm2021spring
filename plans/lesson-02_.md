@@ -1,9 +1,11 @@
 
-
-<!-- DON'T FORGET TO RENAME THE FILE, BEN! -->
-
-
 # What Can We Do With Digital?
+
+<!-- *** DON'T FORGET TO RENAME THE FILE, BEN! *** -->
+<!--     Also: set up Zoom breakout groups  -->
+
+
+
 **Texts to have read:**
 
 * The [syllabus](/{{site.course.base_url}}uploads) and [grading contract](https://canvas.pitt.edu/courses/78948/modules)
@@ -11,6 +13,7 @@
 
 **Writing to turn in:**
 
+* An open-book "quiz" on the grading contract
 * A post to the main course [issue queue]({{site.github.issues_url}}/1), introducing yourself to your classmates (and anyone else who stumbles upon it)
 
 
@@ -22,7 +25,7 @@
 4. Shareback (~15 min)
 5. HW Preview
 
-Welcome back!
+Welcome back! I really enjoyed reading all the introductory posts and letters; if you haven't had a chance to get to know your classmates' opening posts, I encourage you to [check them out]({{site.github.issues_url}}/1)!
 
 ### 1. Five Principles, in Brief
 
@@ -31,7 +34,7 @@ Can I get five people to fill us in on the five "principles of new media" from t
 <!-- numerical representation, modularity, automation, variability,
 and transcoding -->
 
-Let's take notes here: [http://bit.ly/cdm2021spring-notes](bit.ly/cdm2021spring-notes)
+Let's take notes here: [bit.ly/cdm2021spring-notes](http://bit.ly/cdm2021spring-notes)
 
 <!-- Notice the Credits page: the ethics around using sources don't go away when you go digital. Copying is easy, and doesn't do direct harm to the original artifact... but it could cause reputational damage or lost opportunity to the original author.
 
@@ -72,16 +75,18 @@ Time to take these abstractions and put them into practice, in two ways:
 * practice using GitHub
 * practice using our key terms to help us see differently
 
-We'll be working in groups. I've used your [Tech Comfort Survey](http://bit.ly/cdm2021survey) responses to build breakout rooms where at least one person has prior GitHub experience, so I hope you'll be able to help each other where needed!
+We'll be working in groups. I've used your Tech Comfort Survey responses from Lesson 1 to build breakout rooms where at least one person has prior GitHub experience, so I hope you'll be able to help each other where needed!
 
 <div class="alert alert-success">
 Head to
 <strong><a href="https://github.com/benmiller314/cdm-digital-affordances#readme">https://github.com/benmiller314/cdm-digital-affordances</a></strong>, where you'll find more instructions for what to do next – starting with forking the repo. (Thanks, group GitHub anchors!)
 
-Then follow the instructions in the README file.
+Start by skimming through the instructions in the README file, so you know where this is headed. (It'll save you headaches later.)
+
+Then follow the steps.
 </div>
 
-We'll work in Breakout Rooms for 10-15 minutes, then report back. Don't forget that you can use Zoom chat and screenshare to your advantage.
+We'll work in Breakout Rooms for about 10-15 minutes, then report back. Don't forget that you can use Zoom chat and screenshare to your advantage.
 
 Call me if you need me! Otherwise, I'll be floating from group to group.
 
@@ -92,7 +97,7 @@ Call me if you need me! Otherwise, I'll be floating from group to group.
   - I also especially recommend [1.5 / intro to the command line](https://youtu.be/oK8EvVeVltE) and [1.6 / clone, push, pull](https://youtu.be/yXT1ElMEkW8), though the latter gets a little long-winded... But then, that's what 1.5x playback is for, am I right?
 * **Practice** following the steps in the video, using either a .txt file or a .md file: create a repository on GitHub, add some content to a file, commit, edit it, commit again, and view the history. Next class we can start with any questions that came up for you in the process.
    - If you've used GitHub a lot, you may want to play around with [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) formatting. Do you know what happens if you embed html inside a Markdown file? Or Markdown inside an html block?
-* Get git functioning **on your own computer** (i.e. not through the github.com website):
+* Download what you'll need to get git functioning **on your own computer** (i.e. not through the github.com website):
   - I highly recommend you download the **[GitHub Desktop application](https://desktop.github.com)**, available for MacOS or Windows, which (like the command line interface) has some essential features that are unavailable on the GitHub website.
-  - *Alternatively:* you could install command-line git, probably using either GitBash (for Windows) or Homebrew (for Mac) – or see this [walkthrough of how to install git using, ironically enough, GitHub Desktop](https://www.techrepublic.com/article/how-to-install-github-desktop/#:~:text=That's%20right%2C%20even%20though%20GitHub,install%20Git%20(Figure%20B). (Linux users, I assume you don't need further instructions.)
+  - *Alternatively:* you could install command-line git, probably using either GitBash (for Windows) or Homebrew (for Mac) – or see this [walkthrough of how to install git using, ironically enough, GitHub Desktop](https://www.techrepublic.com/article/how-to-install-github-desktop/#:~:text=That's%20right%2C%20even%20though%20GitHub,install%20Git%20(Figure%20B). (Linux users, I kind of assume you don't need further instructions, but hit me up if I'm wrong.)
   - *Extra optional:* Do you already know git basics, and want a more hands-on guide through the full GitHub functionality? See the GitHub Learning Lab entry on our [Resources page]({{site.github_url}}/resources).

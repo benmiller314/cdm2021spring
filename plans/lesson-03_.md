@@ -213,7 +213,7 @@ If you've downloaded [GitHub Desktop](https://desktop.github.com), you can use a
 # HW for next time:
 * **Download** the [Audacity](https://www.audacityteam.org/download/) audio editor, or update to the latest version if you already have it.
    - NB: some source sites will try to trick you into downloading unrelated software. Don't fall for it. Start on the audacityteam.org, and read the links carefully.
-   - *Optionally* also download the [separate FFmpeg import/export library](https://manual.audacityteam.org/man/faq_installing_the_ffmpeg_import_export_library.html)<!-- NB: On Zoom, it might be helpful to have an additional audio input/output device like Soundflower or whatever the Windows equivalent is-->
+   - *Optionally* also download the [separate FFmpeg import/export library](https://manual.audacityteam.org/man/faq_installing_the_ffmpeg_import_export_library.html), which expands the file types Audacity can handle.<!-- NB: On Zoom, it might be helpful to have an additional audio input/output device like Soundflower or whatever the Windows equivalent is-->
 * **Bring** headphones – we should have time to practice using it!
 * **Watch** some orienting videos from LinkedIn Learning:
   - [Selecting and Zooming](https://www.linkedin.com/learning/learning-audacity-2/selecting-and-zooming) (6 min)

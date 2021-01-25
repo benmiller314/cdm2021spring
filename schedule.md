@@ -59,8 +59,8 @@ HW for next time:
 For next time:
 
 * **Listen** to example sound narratives (see lesson plan for links)
-* **Watch** my Audacity demo from last semester
 * **Write** a short blog post: what do you notice? what do you wonder? Post this on <a href="{{site.github.issues_url}}">the Issues page</a>.
+* **Watch** --my Audacity demo from last semester-- the recommended selections from the LinkedIn Learning tutorial on Audacity
 * **Download** the [Audacity](https://www.audacityteam.org/download/) audio editor if you haven't yet, or update to the latest version if you already have it.
 * *Optionally* also download the [separate FFmpeg import/export library](https://manual.audacityteam.org/man/faq_installing_the_ffmpeg_import_export_library.html)
 <!-- * **Schedule** a one-on-one conference with Ben using https://benmiller314.youcanbook.me -->

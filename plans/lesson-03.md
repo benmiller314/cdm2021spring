@@ -95,7 +95,10 @@ NB: Git may present you with some error messages, especially the first time you 
 But GH Desktop will helpfully offer to open the repository in Finder or Explorer... or in your preferred external text editor.
 </div>
 
+Which brings us to...
+
 ## 3. One more view: the Atom interface
+
 
 ### Initial questions to ask:
 

@@ -105,9 +105,9 @@ Which brings us to...
 - How is the space of the app laid out?
 - What's given the most prominent visual focus?
 - What features/tools do you have quick access to?
-  * for Atom: what do you get in the right-click menu?
+  * for example: what do you get in the right-click menu?
 
-I, for one, would like to reorganize these files. Here's how I would...
+Suppose I would like to reorganize these files. Here's how I would...
 
 - create a subfolder
 - move files into the folder
@@ -175,9 +175,9 @@ This is Tyller Barner's "Coffeeshop Conversations," from Spring 2019. I'm very h
 <!-- show Tyller's files -->
 
 <div class="alert alert-warning">
-<strong>Important:</strong> Audacity project files, with extension .aup, do not in themselves contain any sound. They are, instead, an index of the files that live in an adjacent folder: if your main file is <em>project.aup</em>, then the data folder is <em>project_data</em>.
+<p><strong>Important:</strong> Audacity project files, with extension .aup, do not in themselves contain any sound. They are, instead, an index of the files that live in an adjacent folder: if your main file is <em>project.aup</em>, then the data folder is <em>project_data</em>.</p>
 
-<strong>The .aup file and the \_data folder must always live in the same containing folder, and move together.</strong> If you have one in your repository but not the other, the project will not open properly!
+<p><strong>The .aup file and the _data folder must always live in the same containing folder, and move together.</strong> If you have one in your repository but not the other, the project will not open properly!</p>
 </div>
 
 NB: You should never need to manipulate the files in the \_data folder directly: just let Audacity handle them.

@@ -19,6 +19,7 @@ course:
   description: Making the most of multiple modes
   # E.g., Spring 2013:
   term: Spring 2021
+  slugterm: 2021spring
   time: TuTh 2:50-4:05pm
   room: Zoom, or 3911 Posvar if public health allows
   instructor:

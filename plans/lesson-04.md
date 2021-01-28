@@ -14,31 +14,34 @@
 ## Plan for the day
 
 1. Sound, space, and attention (10-15 min)
-2. Audacity Play Time (25-35 min) <!-- we got here at ~3:19: 30 minutes in. Audacity crashes and Ben flubs w/ label track -->
-4. Share and Enjoy (10ish min)
-5. HW Preview (5 min)
-6. Offline sketching (10 min)
+2. Into Audacity (25-35 min)
+3. Share and Enjoy (5-10 min)
+5. Generative writing (10 min, start no later than 3:45)
+4. HW Preview (5 min)
 
-
-## 1. Sound and Space: Takeaways from listening (5 min)
+## Sound, space, and attention (10-15 min)
 <!-- Be sure to talk about layers within the clips: how might you group the sounds you heard? -->
 
 Lots of great comments on the forum: about music as setting emotion, about continuity and contrast, about silence and volume. Here are my highlights:
 
 <details><summary>Soundtrack sets the emotional tone</summary>
-This one kind of speaks for itself, so I won't belabor the point. A fun example: an anxious arrival, <a href="https://www.instagram.com/p/BEZj3YMyAk_/">remastered</a> vs <a href="https://youtu.be/7WIw4IbIwG8?t=8">original</a>
+<p>This one kind of speaks for itself, so I won't belabor the point: a drone can build suspense; soaring strings can sound uplifting or motivational; light jazz can sound cheerful or relaxing; etc.</p>
+
+<p>A fun bonus example: an anxious arrival, <a href="https://youtu.be/7WIw4IbIwG8?t=8">original</a> and <a href="https://www.instagram.com/p/BEZj3YMyAk_/">remastered</a></p>
 </details>
-<details><summary>Continuous background conveys place and time; disrupted sound conveys change of place or time</summary>
-Think of the hubbub of conversation in the coffee shop scene – but think also of the abrupt cuts in the background of "Day In: Day Out," which convey a jump from one place to another.
+<details><summary>Continuous background conveys consistent place and time; disrupted sound conveys change of place or time</summary>
+<p>Think of the hubbub of conversation in the coffee shop scene – but think also of the abrupt cuts in the background of "Day In: Day Out," which convey a jump from one place to another.</p>
+<p>Many podcasts or radio shows also use short musical interludes to smooth scene changes: they provide continuity across the gap.</p>
 </details>
 <details><summary>Repetition is okay. Repetition with variation is even better.</summary>
-One definition of narrative is the interruption of a stable context, and the fallout of that interruption. When sounds recur, it creates a stable context. That we can break.
+One definition of narrative is  <em>interruption of a stable context</em>, and the fallout of that interruption. When sounds recur, they create a stable context. That we can break.
 </details>
-<details><summary>Contrasting sound draws attention</summary>
-Think of dripping sinks or broken glass, in contrast to continuous drones. Think also of how, in Coffeeshop Conversations, the part that stands out most is when the background – otherwise steady – fades away. The flip side of this is that a long time <em>without</em> a change can drain attention: you can often get away with very short clips more easily than very long ones.
+<details><summary>Contrasting sound draws attention; so does silence.</summary>
+<p>Think of dripping sinks or broken glass, in contrast to continuous drones. Think also of how, in Coffeeshop Conversations, the part that stands out most is when the background – otherwise steady – fades away.</p>
+<p>The flip side of this is that a long time <em>without</em> a change can drain attention: you can often get away with very short clips more easily than very long ones.</p>
 </details>
 <details><summary>Layers do a lot of work</summary>
-Several people pointed out the way these things work best in concert with one another: ambient sound <em>plus</em> background music <em>plus</em> incidentals are what make it <strong>immersive</strong>.</details>
+A few people pointed out the way these things work especially well in concert with one another: ambient sound <em>plus</em> background music <em>plus</em> incidentals are what make it <strong>immersive</strong>.</details>
 
 
 
@@ -78,9 +81,32 @@ For this activity, headphones will help you isolate your Audacity playback from 
 EXT: Audacity is complex enough that I'm really expecting you can fill the time here. If you're really happy with what you've achieved, go ahead and save the project, then mute the current music and add a different soundtrack. How does that shift your perception of the edits you'd already made? What else does it make you want to try?
 
 
-## 4. Share and Enjoy (10+ min)
+## 4. Share and Enjoy (5-10 min)
 
 Let's hear a few! Anybody have a clip they're excited to share?
+
+## Generative writing (10 min)
+
+I'd like to spend some in-class time using writing – some listing and looping – as a way to get your ideas flowing. As I ask these questions, pause and reach out with your feelings until you sense an answer, or more than one – and then write down whatever comes. I won't collect these, so they're private to you. But I hope you'll find them useful for getting to something shareable, moving forward.
+
+- In what places (physical, virtual, or imaginary) could you anchor your soundscape? Make a list. Anything you're forgetting?
+
+- Choosing one item from your list you could work with for now, ask yourself: What kinds of stories happen there, and which of them could you reasonably tell within a few minutes?
+
+- How can you represent that environment sonically?
+
+- What sounds are relatively stable, or sustained, and what is incidental?
+
+- What structures or sequences could help a listening audience follow the story?
+
+
+## EXT: Studio time
+
+If we have more time left in class, fo ahead and start writing up your proposal – or start testing the feasibility of what you want to propose, e.g. by searching for sounds you think you'll need, or opening further Audacity tutorials.
+
+If we get do there, please go to our shared notes doc, [bit.ly/cdm2021spring-notes](http://bit.ly/cdm2021spring-notes) to set your working goals for today. When we're done, you can come back to the doc and update with your progress / goals for your next working session.
+
+
 
 # HW for next time:
 
@@ -91,10 +117,14 @@ Let's hear a few! Anybody have a clip they're excited to share?
 * The term "asset" comes from a reading assignment from the book _Writer/Designer_ (Ball, Sheppard, and Arola, eds). A scan of the relevant chapter is <a title="not posted to preserve the limited distribution that helps justify my fair use claim (as does my colorless copy and the limited amount copied, relative to the book)" href="https://pitt.box.com/s/xovvpta4x2tq1cs9ywr61d2g1udka8m5
 ">posted to Box</a>; **please read it before writing your proposal.**
    - _Optionally_, you can also read through a [short four-page webcomic](https://wiki.creativecommons.org/wiki/Howitworks_Comic1) explaining how Creative Commons (CC) licenses get attached to copyrightable materials, and how easily CC materials can be included and/or remixed in further creations... with, at a minimum, attribution. The subject is covered in _Writer/Designer_, but the comic is cute.
-   - _Even more optionally_, you can **read** the Stanford Overview of Fair Use, which you can find in a series of four webpages beginning at [fairuse.stanford.edu/overview/fair-use/](https://fairuse.stanford.edu/overview/fair-use/). This text, despite being called an overview, is really a more in-depth understanding of fair use than the brief introduction in _Writer/Designer_. If Ball et al. struck a chord with you, here's where to read on!
+    - _Even more optionally_, you can **read** the Stanford Overview of Fair Use, which you can find in a series of four webpages beginning at [fairuse.stanford.edu/overview/fair-use/](https://fairuse.stanford.edu/overview/fair-use/). This text, despite being called an overview, is really a more in-depth understanding of fair use than the brief introduction in _Writer/Designer_. If Ball et al. struck a chord with you, here's where to read on!
 
 * Finally, I'd like you to **read** the following advice on sound recording, **listening to the embedded clips**:
      - Fowkes, Stuart. “The Top 5 Things You Need to Make a Great Field Recording.” *Cities & Memory: Field Recordings, Sound Map, Sound Art*, 13 Aug. 2014, [https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/).
      - MacAdam, Alison. “6 NPR Stories That Breathe Life into Neighborhood Scenes.” *NPR Training*, 30 Oct. 2015, [https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/](https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/). (**Note the time skips she recommends**: sometimes a long clip is embedded, but not meant to be listened to in full.)
-   <!-- * After thinking about the advice, **take a listening tour around your local soundscape**, inside or outside or some combination. (Bring your mask where appropriate.) Take a mental note of what you hear: What are the _continuous_ sounds in this space? Are they distinctive, or fairly generic? What are the _incidental_ sounds that contrast with the background ambiance?
+
+* PS: Have you seen our plentiful <a href="{{site.github_url}}/resources">Resources</a> page? Be sure to at least skim both the free/licensed sounds and music section and the audio-unit-specific advice and examples.
+
+   <!-- The timing of this really only works in the fall:
+   * After thinking about the advice, **take a listening tour around your local soundscape**, inside or outside or some combination. (Bring your mask where appropriate.) Take a mental note of what you hear: What are the _continuous_ sounds in this space? Are they distinctive, or fairly generic? What are the _incidental_ sounds that contrast with the background ambiance?
    * Try making a few recordings of your surroundings. (The [resources page](https://benmiller314.github.io/cdm2020fall/resources#audio) has a link to recommended smartphone apps for occasional recording.) Listen back. Do they sound like you expected? Why or why not? -->

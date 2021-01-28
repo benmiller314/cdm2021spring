@@ -75,7 +75,7 @@ In general, <strong>when we're in breakout groups, I encourage you to unmute</st
 For this activity, headphones will help you isolate your Audacity playback from each other. If you want to share, you can unplug the headphones and your mic should then pick up the sound from your speaker.
 
 
-<div class="alert alert-caution">If your computer can't handle both Zoom and Audacity, it's okay (not ideal, but okay) to drop out of the call for a few minutes while you're working. But do <strong>set a timer</strong>, so you can check back in after about 20 minutes.</div>
+<div class="alert alert-warning">If your computer can't handle both Zoom and Audacity, it's okay (not ideal, but okay) to drop out of the call for a few minutes while you're working. But do <strong>set a timer</strong>, so you can check back in after about 20 minutes.</div>
 
 
 EXT: Audacity is complex enough that I'm really expecting you can fill the time here. If you're really happy with what you've achieved, go ahead and save the project, then mute the current music and add a different soundtrack. How does that shift your perception of the edits you'd already made? What else does it make you want to try?
@@ -102,7 +102,7 @@ I'd like to spend some in-class time using writing – some listing and looping�
 
 ## EXT: Studio time
 
-If we have more time left in class, fo ahead and start writing up your proposal – or start testing the feasibility of what you want to propose, e.g. by searching for sounds you think you'll need, or opening further Audacity tutorials.
+If we have more time left in class, go ahead and start writing up your proposal – or start testing the feasibility of what you want to propose, e.g. by searching for sounds you think you'll need, or opening further Audacity tutorials.
 
 If we get do there, please go to our shared notes doc, [bit.ly/cdm2021spring-notes](http://bit.ly/cdm2021spring-notes) to set your working goals for today. When we're done, you can come back to the doc and update with your progress / goals for your next working session.
 

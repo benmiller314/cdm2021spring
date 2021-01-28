@@ -112,7 +112,7 @@ If we get do there, please go to our shared notes doc, [bit.ly/cdm2021spring-not
 
 * The main writing assignment for the week is to <strong>post a proposal for your soundscape narrative by Tuesday</strong>, including a preliminary chart of sound assets you might want to include.
   - To encourage cross-pollination, I'd like you to post these to the [issue queue]({{site.github.issues_url}}).
-  - If you're feeling stuck on what to propose, see the <a title="Because you reach for them when you feel like you're falling">"parachute prompts"</a> at the bottom of the [project assignment](https://github.com/benmiller314/soundscape{{slugterm}}#parachute-prompts).
+  - If you're feeling stuck on what to propose, see the <a title="Because you reach for them when you feel like you're falling">"parachute prompts"</a> at the bottom of the [project assignment](https://github.com/benmiller314/soundscape{{site.course.slugterm}}#parachute-prompts).
 
 * The term "asset" comes from a reading assignment from the book _Writer/Designer_ (Ball, Sheppard, and Arola, eds). A scan of the relevant chapter is <a title="not posted to preserve the limited distribution that helps justify my fair use claim (as does my colorless copy and the limited amount copied, relative to the book)" href="https://pitt.box.com/s/xovvpta4x2tq1cs9ywr61d2g1udka8m5
 ">posted to Box</a>; **please read it before writing your proposal.**
@@ -125,6 +125,8 @@ If we get do there, please go to our shared notes doc, [bit.ly/cdm2021spring-not
 
 * PS: Have you seen our plentiful <a href="{{site.github_url}}/resources">Resources</a> page? Be sure to at least skim both the free/licensed sounds and music section and the audio-unit-specific advice and examples.
 
-   <!-- The timing of this really only works in the fall:
+<!--
+The timing of this really only works in the fall:
    * After thinking about the advice, **take a listening tour around your local soundscape**, inside or outside or some combination. (Bring your mask where appropriate.) Take a mental note of what you hear: What are the _continuous_ sounds in this space? Are they distinctive, or fairly generic? What are the _incidental_ sounds that contrast with the background ambiance?
-   * Try making a few recordings of your surroundings. (The [resources page](https://benmiller314.github.io/cdm2020fall/resources#audio) has a link to recommended smartphone apps for occasional recording.) Listen back. Do they sound like you expected? Why or why not? -->
+   * Try making a few recordings of your surroundings. (The [resources page](https://benmiller314.github.io/cdm2020fall/resources#audio) has a link to recommended smartphone apps for occasional recording.) Listen back. Do they sound like you expected? Why or why not?
+-->

@@ -125,6 +125,7 @@ Before we get too into the details, I want you to practice what I was just demoi
 (5) Create a new file in the repository, called README.md, and
 (6) Fill it with some placeholder content, like, "This is the future site of so-and-so's soundscape narrative."
 
+
 With that done, let's read through the assignment!
 <!--
 Go through overview, constraints, deadlines. Explain about parachute prompts.
@@ -211,6 +212,13 @@ If you've downloaded [GitHub Desktop](https://desktop.github.com), you can use a
 </figcaption>
 </figure>
 
+
+<div class="alert alert-success">
+<p>You should now be able to
+(7) Commit the changes you made above: a new name for the old README.md file, and a new README.md with your own content. Then go ahead and (8) push back to GitHub.</p>
+
+<p>NB: This is also how I'll confirm  attendance for asynchronous participation.</p>
+</div>
 
 
 # HW for next time:

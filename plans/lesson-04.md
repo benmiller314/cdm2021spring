@@ -75,7 +75,7 @@ In general, <strong>when we're in breakout groups, I encourage you to unmute</st
 For this activity, headphones will help you isolate your Audacity playback from each other. If you want to share, you can unplug the headphones and your mic should then pick up the sound from your speaker.
 
 
-<div class="alert alert-warning">If your computer can't handle both Zoom and Audacity, it's okay (not ideal, but okay) to drop out of the call for a few minutes while you're working. But do <strong>set a timer</strong>, so you can check back in after about 20 minutes.</div>
+<div class="alert alert-warning">If your computer can't handle both Zoom and Audacity, it's okay (not ideal, but okay) to drop out of the call for a few minutes while you're working. But do <strong>set a timer</strong>, so you can check back in after about 20 minutes. (Same goes for asynch participants.)</div>
 
 
 EXT: Audacity is complex enough that I'm really expecting you can fill the time here. If you're really happy with what you've achieved, go ahead and save the project, then mute the current music and add a different soundtrack. How does that shift your perception of the edits you'd already made? What else does it make you want to try?
@@ -84,6 +84,12 @@ EXT: Audacity is complex enough that I'm really expecting you can fill the time 
 ## 4. Share and Enjoy (5-10 min)
 
 Let's hear a few! Anybody have a clip they're excited to share?
+
+<div class="alert alert-warning">
+If you're participating asynchronously, can you <a href="mailto:millerb@pitt.edu">email me</a> a sample of what you came up with? It doesn't have to be anything fancy, I'm just curious to know how it went.
+
+To submit, you can either export an mp3, or push to github and let me know to look there.
+</div>
 
 ## Generative writing (10 min)
 

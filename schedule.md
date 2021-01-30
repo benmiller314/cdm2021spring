@@ -347,8 +347,8 @@ For next time:
 
 <div class="footnote-block" style="margin-top:3em;">
 
-<p class="footnote"><a href="#ftnref1 id=ftn1">[1]</a> This early deadline is not my way of being mean; it's just that sometimes things will take longer than you expect, and I'd really like for you to be able to sleep, and for me to be able to look over your work in the morning before class. Those latter two things are the real priorities that the "night before" policy is meant to achieve. <a href="#ftnref1"><em>~jump back~</em></p>
+<p class="footnote"><a href="#ftnref1" id="ftn1">[1]</a> This early deadline is not my way of being mean; it's just that sometimes things will take longer than you expect, and I'd really like for you to be able to sleep, and for me to be able to look over your work in the morning before class. Those latter two things are the real priorities that the "night before" policy is meant to achieve. <a href="#ftnref1"><em>~jump back~</em></p>
 
-<p class="footnote"><a href="#ftnref2" id="ftn2">[2]</a> If you're updating an existing project, I recommend doing this in a <a href="https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/managing-branches">new branch</a> of the old repository, instead. <a href="#ftnref1"><em>~jump back~</em></p>
+<p class="footnote"><a href="#ftnref2" id="ftn2">[2]</a> If you're updating an existing project, I recommend doing this in a <a href="https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/managing-branches">new branch</a> of the old repository, instead. <a href="#ftnref2"><em>~jump back~</em></p>
 
 </div>

@@ -47,6 +47,7 @@ HW for next time:
 <!-- BEN HOMEWORK: EXCERPT AUDACITY VIDEO FROM LAST TIME, SO THEY CAN WATCH IT OVER THE WEEKEND AND YOU CAN RESCUE TIME IN LESSON 4 -->
 HW for next time:
 
+<!-- NOTE FOR NEXT TIME: we probably don't need GitHub for Poets any more: this is the only time we're really using the command line, and it just seems to lead to more confusion (and definitely anxiety) than insight. -->
 * **Watch** Git and GitHub for Poets, starting at least with
 [the Introduction](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) and going as far as your interest and time allow. (I especially recommend parts 1.5 and 1.6.)
 * **Practice** following the steps in the video

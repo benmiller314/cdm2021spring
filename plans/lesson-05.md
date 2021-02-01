@@ -78,7 +78,7 @@ Lots of great ideas in those proposals. My small bits of broadly applicable advi
 </details>
 
 <details><summary>Consider Getting it in Writing</summary>
-  One benefit to drafting a project in prose is that your script doubles as a transcript – which improves both accessibility and discoverability. (One downside is that it's sometimes easier to *do* or *say* than it is to *write*.) Still: something to keep in the back of your mind.
+  One benefit to drafting a project in prose is that your script doubles as a transcript – which improves both accessibility and discoverability. (One downside is that it's sometimes easier to <em>do</em> or <em>say</em> than it is to <em>write</em>.) Still: something to keep in the back of your mind.
 </details>
 
 <details><summary>Roll Tape</summary>

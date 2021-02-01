@@ -73,7 +73,7 @@ To help with goal-setting and reflection (and, again, so I can figure out where 
 
 Lots of great ideas in those proposals. My small bits of broadly applicable advice:
 
-<details><summary>My Life</summary>
+<details><summary>This is My Life</summary>
   If you're doing a day-in-the-life or commute, the challenge is to make at least some of your sounds different from everyone else's: parts of a particular soundscape, not a generic one. Voiceover, even the little mutterings of a solitary person to themselves, may help; your choice of a soundtrack overlay might, as well.
 </details>
 

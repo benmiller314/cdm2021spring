@@ -60,7 +60,7 @@ Note that there are sections for both free/licensed sounds and music, and also (
 <strong>Do whatever work you need to get <em>something</em> toward your project posted to your GitHub repository by Thursday:</strong> find audio sources you have permission to use, extract assets from them, record test voiceover with your phone or computer, start moving things around in Audacity, practice some more with GitHub Desktop (or command line git).
 
 <div class="alert alert-warning">
-Remember, <strong>don't use the GitHub <em>website</em> for Audacity files!</strong> It can't handle the _data folder, and you <em>must</em> include the _data folder for your project to play back.
+Remember, <strong>don't use the GitHub <em>website</em> for Audacity files!</strong> It can't handle the _data folder, and you <em>must</em> include the _data folder for your project to play back. Commit the .aup all at once with the _data, then push from GH Desktop (or the command line).
 </div>
 
 The goal for now is to get a feel for how you work with audio, not to have a finished product. On Thursday, we'll use your experience to refine our shared baseline criteria and brainstorm some aspirational goals.

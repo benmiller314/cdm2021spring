@@ -32,10 +32,10 @@ Call me in (<img src="https://assets.zoom.us/images/en-us/desktop/generic/in-mee
 
 * EXT: For each entry in your project's assets list, add Rights information as per _Writer/Designer_ page 160. (You'll need to keep updating this, of course, as you determine what assets you really want to use.)
 
-### Recording advice
+### Audio Advice
 
 * What's one way to make sure you're recording the sound you want to (and not, say, the loud bus passing by your conversation)?
-* What do Fowkes and MacAdam consider tempting cliches, and how do they get past them? <!-- birds chirping, cars rolling by (which also sounds like water). Get past with strong voiceover writing; contextualizing structure; specific instances of a theme. -->
+* What do Fowkes and MacAdam consider tempting cliches of soundwriting, and how do they suggest getting past them?  <!-- birds chirping, cars rolling by (which also sounds like water), kids at a playground. Get past with strong voiceover writing; contextualizing structure; specific instances of a theme. -->
 * Would you (each of you, specifically, for this project) want to work from a written script? Why or why not?
 * Would you (again, each of you in the breakout room) want to incorporate human voices in your soundscape narratives? How or how much, and why (or why not)?
 

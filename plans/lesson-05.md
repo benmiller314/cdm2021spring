@@ -26,13 +26,14 @@ Call me in (<img src="https://assets.zoom.us/images/en-us/desktop/generic/in-mee
 * True or false: the only sources you can use in this project are those you record yourself.
 * True or false: if you record your own sources, you don't have to cite them.
 * True or false: if you use a source with a Creative Commons license, you don't have to cite it.
+* What's the difference between fair use and Creative Commons?
 * How would you define a "credible citation" in relation to the soundscape narratives you've proposed?
-* Why are Ball, Sheppard, and Arola so insistent about folder structure and file naming conventions?
+* Why do you think Ball, Sheppard, and Arola are so insistent about folder structure and file naming conventions?
 * EXT: Does my assignment of the _Writer/Designer_ chapter fulfill the criteria of fair use? Consider all four major factors.
 
 * EXT: For each entry in your project's assets list, add Rights information as per _Writer/Designer_ page 160. (You'll need to keep updating this, of course, as you determine what assets you really want to use.)
 
-### Audio Advice
+### Recording Audio
 
 * What's one way to make sure you're recording the sound you want to (and not, say, the loud bus passing by your conversation)?
 * What do Fowkes and MacAdam consider tempting cliches of soundwriting, and how do they suggest getting past them?  <!-- birds chirping, cars rolling by (which also sounds like water), kids at a playground. Get past with strong voiceover writing; contextualizing structure; specific instances of a theme. -->

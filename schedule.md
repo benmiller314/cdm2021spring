@@ -76,7 +76,7 @@ For next time:
 For next time:
 
 * **Read and listen** to the audio recording advice (Fowkes and MacAdam) if you haven't yet
-* **Read** the excerpt from *Writer/Designer* on assets and fair use, plus (optionally) a webcomic on Creative Commons.
+* **Read** the excerpt from *Writer/Designer* on assets and fair use, plus (optionally) a webcomic on Creative Commons. <!-- FOR NEXT TIME: consider whether you'd want to do Perusall for this, and skip the in-class discussion. Depends a lot on how busy the rest of the HW is; in spring 2021 I don't regret not doing it that way, b/c there was already so much other stuff to do. But if there were to be less writing... -->
 * **Write** a proposal for your sound narrative, including a prospective asset list (as per *W/D*); post to <a href="{{site.github.issues_url}}">the Issues page</a>.
 <!-- * **Listen to and record** a piece of your local soundscape THIS IS GOOD, BUT I JUST DON'T HAVE TIME IN THE SPRING -->
 * **Begin** sourcing the sounds you'll need

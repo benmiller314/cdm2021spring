@@ -34,7 +34,7 @@ Primed now by that thinking and writing, I'm going to ask you to get in groups a
 
 ### 3a. Introduce the existing set
 
-I've posted criteria from previous semesters in our [shared google doc](http://bit.ly/cdm2021spring-notes) as a starting point.
+I've posted criteria from previous semesters in our [shared google doc](http://bit.ly/cdm2021spring-notes#heading=h.4z2fc4kqrdln) as a starting point.
 
 I want to have these on screen as we talk about what it means to say something is "baseline" or "aspirational" for a particular unit.
 
@@ -51,7 +51,7 @@ I want to have these on screen as we talk about what it means to say something i
 
 ### 3c. Review, comment, and suggest
 
-Given the <a href="https://github.com/benmiller314/soundscape2021spring">goals of the unit</a>, what should we set as our minimum criteria for full credit? What are some ways we might push beyond that minimum – not just in terms of quantity, but in terms of quality?
+Given the goals of the unit, what should we set as our minimum criteria for full credit? What are some ways we might push beyond that minimum – not just in terms of quantity, but in terms of quality?
 
 <!-- That is, <strong>I really want you to see these aspirational goals as opportunities to stretch yourselves and your skills, not just to do more of the same.</strong> Think about what would be new and potentially exciting, but not required for everyone. -->
 
@@ -80,7 +80,7 @@ EXT: If you finish early, move on to the next section.
 
 I'll work solo to write up a clean list that reflects your consensus in the comments, while you all work solo (with groupmates on-hand for questions or other feedback) on your projects and any needed tutorials.
 
-<div class="alert alert-success">Like last time, please set yourself some <a href="http://bit.ly/cdm2021spring-notes">studio goals in the doc</a>; set a timer for 20 minutes; and then write a brief exit note on what you were able to achieve / what your next steps are.</div>
+<div class="alert alert-success">Like last time, please set yourself some <a href="http://bit.ly/cdm2021spring-notes#heading=h.1die9dqjnq8y">studio goals in the doc</a>; set a timer for 20 minutes; and then write a brief exit note on what you were able to achieve / what your next steps are.</div>
 
 Don't forget to save and commit as you go!
 
@@ -90,17 +90,20 @@ NB: If you're joining us asynchronously, please do add your goals and reflection
 
 
 ## 5. Confirming criteria (8-10 min)
-Please head back up to the [criteria in the doc](http://bit.ly/cdm2021spring-notes). Before we head into the weekend, I'd like to confirm that we're on the same page. (At least pending any new input from async participants.)
+Please head back up to the [criteria in the doc](http://bit.ly/cdm2021spring-notes#heading=h.wke68rgfiqrs). Before we head into the weekend, I'd like to confirm that we're on the same page. (At least pending any new input from async participants.)
 
 
 
 ## For next time:
 
 * **Work** to bring in a full draft: a solid attempt at a complete soundscape narrative, ideally at the target length. Rough edges are still welcome.
+  - Remember that *you don't need to change the project filename from draft to draft!* Why duplicate or triplicate your file storage needs? Just say what's changing in your commit messages, and keep track of which draft is which that way.
+
 * **Continue** taking periodic screenshots and posting meaningful commit messages in git / GitHub Desktop.
   - Not sure when to commit? One option is to do so whenever you're about to stop working, with a note for what you'll come back and do next time. (e.g. Did you save and commit just now? Do you want to?) Add more commits whenever you're happy with the (potentially interim) state of some new feature.
-  - Remember that **you don't need to change the project filename from draft to draft!** Why duplicate or triplicate your file storage needs? Just say what's changing in your commit messages, and keep track of which draft is which that way.
+
 * By Tuesday morning, **push a full draft**, including  your .aup, _data folder, screenshots of Audacity, and an exported .mp3, plus an updated file with citations for the sources you've actually used (with direct links where possible) and permissions/license to use them.
   - You may want to update your README, but that's optional for now.
   - We'll be workshopping next time, so it's really important that your piece be accessible on GitHub! If you're still having trouble, or not sure it's working, please do check with me. I have office hours tomorrow from 1:30-2:30, or email to work out something else.
+
 * **Bring** headphones.

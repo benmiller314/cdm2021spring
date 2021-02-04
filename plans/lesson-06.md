@@ -8,12 +8,12 @@
 **Plan for the Day**:
 1. Reflective writing (5 min)
 2. Refresher on soundscapes we've liked (5 min)
-3. Gathering criteria (45 min)
-4. Sources, assets, permissions, citations (5-10 min)
-5. EXT: Studio and microconferences
+3. Gathering criteria (30 min)
+4. Studio and microconferences (30 min)
+5. HW Preview (5 min)
 
 <!-- Start with review of GH Desktop for pushing large folders -->
-## 1. Reflective writing (5 min) <!-- we get here at 2:38 -->
+## 1. Reflective writing (5 min)
 <div class="alert alert-success">
 In your own space – you won't have to share this unless you want to – do a little writing about your soundscape narrative in progress. What's exciting about it? What's challenging about it? What are you unsure of?
 </div>
@@ -100,6 +100,7 @@ Please head back up to the [criteria in the doc](http://bit.ly/cdm2021spring-not
 * **Continue** taking periodic screenshots and posting meaningful commit messages in git / GitHub Desktop.
   - Not sure when to commit? One option is to do so whenever you're about to stop working, with a note for what you'll come back and do next time. (e.g. Did you save and commit just now? Do you want to?) Add more commits whenever you're happy with the (potentially interim) state of some new feature.
   - Remember that **you don't need to change the project filename from draft to draft!** Why duplicate or triplicate your file storage needs? Just say what's changing in your commit messages, and keep track of which draft is which that way.
-* By Tuesday morning, **push a full draft**, including  your .aup, _data folder, and exported .mp3, plus an updated file with citations for the sources you've actually used (including direct links where possible) and permissions/license to use them.
+* By Tuesday morning, **push a full draft**, including  your .aup, _data folder, screenshots of Audacity, and an exported .mp3, plus an updated file with citations for the sources you've actually used (with direct links where possible) and permissions/license to use them.
+  - You may want to update your README, but that's optional for now.
   - We'll be workshopping next time, so it's really important that your piece be accessible on GitHub! If you're still having trouble, or not sure it's working, please do check with me. I have office hours tomorrow from 1:30-2:30, or email to work out something else.
 * **Bring** headphones.

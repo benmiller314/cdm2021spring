@@ -7,10 +7,10 @@
 
 1. Describe -> Evaluate -> Suggest: A Workshop Workflow (5 min)
 2. Evaluation reminder: our shared criteria (5 min)
-3. Peer review workshop (3 times 10-12 min)
+3. Peer review workshop (3 times 10-12 min); EXT: Studio
 4. Evaluation revisited (10 min)
 5. HW preview
-6. EXT: Studio
+
 
 
 ## 0. Warm-up writing
@@ -120,7 +120,8 @@ Groups:
 If you're participating asynchronously, please try to complete your review <strong>before class time on Thursday</strong> – or earlier, if possible – so your partners can work with your feedback in mind. If that's just not possible (and I understand how that might be the case), let me know asap and I'll make sure the others get my feedback in the meantime. Saturday morning would be the latest when it might still be helpful, so that's the official async deadline; just confirm that you've pulled the latest version whenever you start.
 </div>
 
-
+## EXT: Studio
+If any time remains, go ahead and get started on those revisions! If you have a chance to let me know in the [shared notes doc](bit.ly/cdm2021spring-notes) what you're working on or what you're wondering, all the better. :¬)
 
 ## 4. Evaluation revisited (10 min)
 Based on your viewing, if you'd like to propose changes to the baseline criteria, or add new aspirational goals to consider, please comment on the [google doc](http://bit.ly/cdm2021spring-notes#heading=h.tq2fxvj4mi89)!
@@ -131,8 +132,3 @@ Based on your viewing, if you'd like to propose changes to the baseline criteria
 - A final-for-now draft is due at the end of Sunday, to give you time to write a reflection by class-time on Tuesday; see the [soundscape narrative prompt](https://github.com/benmiller314/soundscape2021spring) for further details.
 * Even as we zoom in toward the unit finale, I want to keep one eye open toward the bigger picture. Think about projects you'd like to try for at the end of term: e.g. What further possibilities of sound might you want to explore, perhaps in connection with other people, or with other media?
   - You can post this to the [Issue Queue]({{site.github.issues_url}}); there is no minimum length requirement.
-
-
-
-## EXT:
-If any time remains, go ahead and get started on those revisions! If you have a chance to let me know in the [shared notes doc](bit.ly/cdm2021spring-notes) what you're working on or what you're wondering, all the better. :¬)

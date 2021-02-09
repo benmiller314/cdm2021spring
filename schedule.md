@@ -110,8 +110,9 @@ For next time:
 <h3><a href="{{site.github_url}}/plans/lesson-07">Lesson 7, Tuesday 2/9</a> – Sound Workshop</h3>
 
 For next time:
-
-* **Write** a blog post of possible integrative projects for the end of term. <!--What games or branching narratives do the soundscapes put you in mind of? Or what do you know you won't have time for now, but maybe could build toward by the end of the term? --> What more might you want to explore?
+* **Keep working** toward your soundscape narrative, incorporating feedback from partners.
+* If you haven't finished *giving* feedback, please do so asap, and ideally by Thursday morning.
+* Optionally, **write** a blog post of possible integrative projects for the end of term. <!--What games or branching narratives do the soundscapes put you in mind of? Or what do you know you won't have time for now, but maybe could build toward by the end of the term? --> What more might you want to explore?
 * **Bring** headphones so you can work in class
 
 <h3><a href="{{site.github_url}}/plans/lesson-08">Lesson 8, Thursday 2/11</a> – Sound Studio</h3>

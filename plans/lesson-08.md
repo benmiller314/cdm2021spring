@@ -79,7 +79,7 @@ A few seeds of ideas I want to plant, having listened through as much as I could
 <details>
 <summary><em>Aim to blend at most entrances and exits.</em></summary>
 
-<p>Sometimes, you really do want a sound to enter suddenly: a jump-scare, a bolt of lightning, a phone ringing. But more often, you want the new sound to feel like it's part of the same scene. Sounds recorded in different places have different levels of background hum, which can make their entrances and exits feel more intrusive. You can mask this with fade-ins/outs, or try to [remove the background](https://fedoramagazine.org/audacity-quick-tip-quickly-remove-background-noise/).</p>
+<p>Sometimes, you really do want a sound to enter suddenly: a jump-scare, a bolt of lightning, a phone ringing. But more often, you want the new sound to feel like it's part of the same scene. Sounds recorded in different places have different levels of background hum, which can make their entrances and exits feel more intrusive. You can mask this with fade-ins/outs, or try to <a href="https://fedoramagazine.org/audacity-quick-tip-quickly-remove-background-noise/">remove the background</a>.</p>
 
 <p>If you want to use music or another kind of background sound to cover transitions, try overlapping the fade-in with the existing scene so as to minimize dead air: at a low volume, the effect will be a more seamless / integrated transition. (See e.g. Tori's project, 0:48-1:00 and 1:54-2:11.)
 </p>

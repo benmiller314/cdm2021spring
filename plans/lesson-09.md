@@ -27,7 +27,7 @@ Second, I know you just finished writing up a reflection on what you did, but I'
 * Now think about Audacity, in particular, as a tool for soundwriting. Given the possibilities and affordances of sound, how does Audacity (try to) make hard things easier? How does the software tell you what's possible? And what tricks to navigating the software, if any, did you realize only after using it for a while? Was there anything you came to rely on, or use more often than you might have expected at first?
 
 ### Let's discuss (5-10 min)
-And let's also take some notes in the [shared notes doc](http://bit.ly/cdm2021spring-notes). Can I get a few volunteers to be note-takers?
+And let's also take some notes in the [shared notes doc](http://bit.ly/cdm{{site.course.slugterm}}-notes). Can I get a few volunteers to be note-takers?
 <!-- discuss the visual layout of Audacity, e.g. the layers; the feedback of cursor events and changing size/position; the menus -->
 
 <div class="alert alert-warning">
@@ -65,11 +65,13 @@ Onscreen, it's a flat image. But if we open it in GIMP...
 <!-- give tour: layers at bottom right, tools at upper left, tool options at lower left, undo at top right. -->
 <!-- Toggle visibility. -->
 <!-- Duplicate -->
-
+<!-- Warning about raster graphics: can scale down, but not up -->
 
 
 <div class="alert alert-info mt-3">
-There are lots of tutorials out there, including right on the GIMP website. If you ever get stuck, try their aptly named <a href="https://docs.gimp.org/2.10/en/gimp-getting-unstuck.html">Chapter 4: Getting Unstuck</a>. (I've also put some other resources on the <a href="{{site.github.url}}/resources">resources page</a>, and please feel free to suggest others as you find them!
+<p>There are lots of tutorials out there, including right on the GIMP website. If you ever get stuck, try their aptly named <a href="https://docs.gimp.org/2.10/en/gimp-getting-unstuck.html">Chapter 4: Getting Unstuck</a>. (I've also put some other resources on the <a href="{{site.github.url}}/resources">resources page</a>, and please feel free to suggest others as you find them!)</p>
+
+<p>Among those: For next week, I'm planning to assign some videos on LinkedIn Learning. If you had trouble accessing those last time, you may want to schedule an office hour visit and we'll try to get you sorted!
 </div>
 
 ## 3. Visual unit overview and assignment
@@ -80,7 +82,7 @@ Your second project is to **make a rhetorical claim through the juxtaposition of
 2. to explore the affordances of still images as a medium, and especially their ability to _direct attention_ and _help make ideas memorable_.
 
 <div class="alert alert-success">
-To read the full assignment – and make a copy for yourself – go to <strong><a href="https://github.com/benmiller314/visual-argument-2020fall#project-2-visual-argument--rhetorical-collage">github.com/benmiller314/visual-argument-2020fall</a></strong>.
+To read the full assignment – and make a copy for yourself – go to <strong><a href="https://github.com/benmiller314/visual-argument-{{site.course.slugterm}}#project-2-visual-argument--rhetorical-collage">github.com/benmiller314/visual-argument-{{site.course.slugterm}}</a></strong>.
 </div>
 
 Let's read through this together.
@@ -101,12 +103,11 @@ Here are some more student examples in response to this actual assignment:
 Want still more? I've also pinned some examples of the kinds of collages and collisions I've seen on the open web, but definitely don't take this as expressing some absolute sense of range:
 <a href="https://www.pinterest.com/benmiller314/visual-argumentexplanation/">www.pinterest.com/benmiller314/visual-argumentexplanation</a>
 
-<!-- FOR 2020fall: You have 15 more minutes, even after the demo! Ask students to manipulate the image they posted to the Greetings and Salutations forum post. -->
 
 ## EXT: Play with GIMP
 If we have extra time, why not play around with GIMP and see where it steers your attention? As an image to work with, you can do a lot worse than the image of yourself (or your pet) that you posted to the [Greetings and Salutations forum]({{site.github.issues_url}}/1), way back when...
 
-### EXT: Google Image's Advanced Search Tools
+<!-- ### EXT: Google Image's Advanced Search Tools -->
 <!--
 Not everything is just available for any use – even if you can find it on a public website. See my FAQ from last year at https://cdm2017.majoringinmeta.net/lesson-04/#key-questions-and-considerations-20-30-min.
 -->
@@ -115,16 +116,7 @@ Not everything is just available for any use – even if you can find it on a p
 ## EXT: More on GIMP
 I'll demo, using Beverly & Pack. "Fly Me to the Moon, by Way of a Hot Air Balloon."" 7 Sept. 2009. Flickr, https://www.flickr.com/photos/walkadog/3897126692/.
 
-Points to hit:
-* Single window mode
-* Lots of selection tools
-   - Quick Mask to help see what's currently selected
-* Pay attention to the tiny text at the bottom
-<!--* Extracting objects from background. Inverse select-->
-<!--
-* Layers! Of course layers
-* Clone tool; tool settings window
-* Scale effects. Rasters vs. vectors
+
 -->
 
 

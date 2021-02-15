@@ -45,15 +45,12 @@ For the next unit, you'll be working on directing attention through visual means
 
 I want to do just a quick preview today, while we're thinking about the shape of tools – and then we'll focus on what I'm asking you to do with them.
 
-Here's a project from last semester that I was planning to nominate for the Digital Media Showcase:
+Here's a project from last year that I was planning to nominate for the Digital Media Showcase, before COVID canceled it:
 <figure>
-<img src="../assets/img/csk32--Human_Trafficking.png" alt="Simple icons of headphones, speakers, glasses, a camera, a sneaker, and a person. Heading reads, 'What do all of these have in common?' Sub-heading: 'They are all sold for $90.'" longdesc="#text-from-showcase-image" />
-<figcaption>"Human Trafficking." Christianna Kelley, 2020. Used with permission. Component image credits at <a href="https://github.com/csk32/visual-argument-2020fall/blob/master/assets.md">https://github.com/csk32/visual-argument-2020fall</a>.</figcaption>
+<img src="../assets/img/ktdemay--future.png" alt="Philadelphia skyline behind cutouts of four athletes, in uniform for Philly basketball, baseball, hockey, and football teams. Text reads, 'The future is HERE'; team logos fill the last four letters." longdesc="#text-from-showcase-image" />
+<figcaption>"The Future of Sports." Kevin DeMaioribus, 2020.</figcaption>
 <div id="text-from-showcase-image" class="sr-only">
-<h1>What do all of these have in common?</h1>
-<h2>They are all sold for $90.</h2>
-<p>The average cost of a person in the global human trafficking market is $90. The industry earns profits of ~$150 billion.</p>
-</div>
+<p>Though unnamed in the image, the athletes/teams are, from left to right, Joel Embiid of the Philadephia 76ers (basketball), his arms raised to either side; Bryce Harper of the Philadelphia Phillies (baseball), with a bat in mid-swing; Travis Konecny of the Philadelphia Flyers (hockey), one hand waving; and Carson Wentz of the Philadelphia Eagles (football), preparing to throw.</p></div>
 </figure>
 
 Onscreen, it's a flat image. But if we open it in GIMP...
@@ -93,13 +90,15 @@ Let's read through this together.
 ## 4. Examples
 
 Here are some more student examples in response to this actual assignment:
-* [The Future of Sports](https://raw.githubusercontent.com/ktdemay/visual-argument-2020spring/master/pngs/future.png), by Kevin DeMaioribus
+* [Human Trafficking](https://github.com/csk32/visual-argument-2020fall/blob/master/Human_Trafficking_updated.png), by Christianna Kelley
 * [The Extinction Crisis](http://dmap.pitt.edu/node/301), by Fathima Shabnam
+* [Let's Talk About It](https://raw.githubusercontent.com/sydneymasterson/visual-argument-2020spring/master/PNGs/visual-argument-2-23.png), by Sydney Masterson
 * [Radiate]("http://dmap.pitt.edu/node/300), by Emma Knaub
 * [Be Kind](http://dmap.pitt.edu/node/244), by Tessa Sayers
 * [Women in Tech](http://dmap.pitt.edu/node/245), by Nicole Dash
 
-I've also pinned some examples of the kinds of collages and collisions I've seen on the open web, but don't take this as expressing some absolute sense of range:
+
+Want still more? I've also pinned some examples of the kinds of collages and collisions I've seen on the open web, but definitely don't take this as expressing some absolute sense of range:
 <a href="https://www.pinterest.com/benmiller314/visual-argumentexplanation/">www.pinterest.com/benmiller314/visual-argumentexplanation</a>
 
 <!-- FOR 2020fall: You have 15 more minutes, even after the demo! Ask students to manipulate the image they posted to the Greetings and Salutations forum post. -->

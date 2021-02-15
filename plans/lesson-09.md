@@ -71,7 +71,7 @@ Onscreen, it's a flat image. But if we open it in GIMP...
 <div class="alert alert-info mt-3">
 <p>There are lots of tutorials out there, including right on the GIMP website. If you ever get stuck, try their aptly named <a href="https://docs.gimp.org/2.10/en/gimp-getting-unstuck.html">Chapter 4: Getting Unstuck</a>. (I've also put some other resources on the <a href="{{site.github.url}}/resources">resources page</a>, and please feel free to suggest others as you find them!)</p>
 
-<p>Among those: For next week, I'm planning to assign some videos on LinkedIn Learning. If you had trouble accessing those last time, you may want to schedule an office hour visit and we'll try to get you sorted!
+<p>Among those: For next week, I'm planning to assign some videos on LinkedIn Learning. If you had trouble accessing those last time, you may want to schedule an office hour visit and we'll try to get you sorted!</p>
 </div>
 
 ## 3. Visual unit overview and assignment

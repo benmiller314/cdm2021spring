@@ -128,6 +128,7 @@ I'll demo, using Beverly & Pack. "Fly Me to the Moon, by Way of a Hot Air Balloo
    - <a href="https://www.thetypetree.com/blog/graphic-design-101-positive-and-negative-space">positive and negative space</a>;
    - <a href="https://www.thetypetree.com/blog/graphic-design-101-dominancehierarchy">dominance and hierarchy</a>;
    - <a href="https://www.thetypetree.com/blog/graphic-design-101-rhythm-and-movement">rhythm and movement</a>.
+   - EXT: For an optional deeper dive into design principles, check out [this series on Gestalt from Smashing Magazine](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy). (NB: That link is to the fifth in the series, because it contains links back to the prior four, right at the top.)
 * **Find and either [screenshot](https://www.take-a-screenshot.org/) or photograph** at least one example of a visual or graphic design out in "the wild" that makes some sort of claim, or argument.
   - By "design," I mean that some person made an active choice in its arrangement. A heap of clothes on the floor may have a lot of artistic potential to a photographer, but it's not yet *designed*.
   - By "in the wild," I mean that I expect you to come across some in the course of your routine travels around the web – or around your surroundings, if you're in a place where you get out into your surroundings. That said, if you need to search more actively, so be it; for one thing, you may need to pay more attention to ads that you've trained yourself to ignore.

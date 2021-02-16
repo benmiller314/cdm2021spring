@@ -95,7 +95,7 @@ Here are some more student examples in response to this actual assignment:
 * [Human Trafficking](https://github.com/csk32/visual-argument-2020fall/blob/master/Human_Trafficking_updated.png), by Christianna Kelley
 * [The Extinction Crisis](http://dmap.pitt.edu/node/301), by Fathima Shabnam
 * [Let's Talk About It](https://raw.githubusercontent.com/sydneymasterson/visual-argument-2020spring/master/PNGs/visual-argument-2-23.png), by Sydney Masterson
-* [Radiate]("http://dmap.pitt.edu/node/300), by Emma Knaub
+* [Radiate](http://dmap.pitt.edu/node/300), by Emma Knaub
 * [Be Kind](http://dmap.pitt.edu/node/244), by Tessa Sayers
 * [Women in Tech](http://dmap.pitt.edu/node/245), by Nicole Dash
 

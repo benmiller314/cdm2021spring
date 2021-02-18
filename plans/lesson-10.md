@@ -19,13 +19,13 @@
 
 ## 1. Building our vocabulary (10-15 min)
 
-We have a bunch of new terms! Let's try to annotate these – just a few key words each - so we know we're on the same page. Head on over to [bit.ly/cdm2021spring-notes](http://bit.ly/cdm2021spring-notes#heading=h.z55p3g78u32k) and jump down to "Keywords toward a Visual Rhetoric." I'll open up the breakout rooms so you can discuss.
+We have a bunch of new terms! Let's try to annotate these – just a few key words each - so we know we're on the same page. Head on over to [bit.ly/cdm2021spring-notes](http://bit.ly/cdm2021spring-notes#heading=h.qyysjgs97k56), under "Keywords toward a Visual Rhetoric." I'll open up the breakout rooms so you can discuss.
 
 <div class="alert alert-warning">
-ALT: To get credit for asynchronous participation, use the comments feature in the doc to add at least two links to additional examples that illustrate the principles of visual dominance, rhythm, or negative space.
+ALT: To get credit for asynchronous participation, use the comments feature in the doc to add at least two links to additional examples that illustrate the principles of visual dominance/hierarchy, rhythm, or negative space.
 </div>
 
-* Visual Dominance <!-- What draws the eye? -->
+* Visual Dominance/Hierarchy <!-- What draws the eye? -->
    - Scale <!-- big -->
    - Value <!-- dark/intense -->
    - Color <!-- contrast -->
@@ -110,7 +110,7 @@ Here's what I'm using, and you can find it already in your repo (under "in-class
 <figure>
 <img src="../assets/img/beverly-and-pack--fly-me-to-the-moon.jpg" alt="A striped hot air balloon floating in a blue sky, darker toward the top of the image. A small, nearly full moon is visible; the ground is not." />
 
-<figcaption>"Fly Me to the Moon, by Way of a Hot Air Balloon" (2009) by [Beverly & Pack](https://www.flickr.com/photos/walkadog/), [on Flickr](https://www.flickr.com/photos/walkadog/3897126692/). [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/).
+<figcaption>"Fly Me to the Moon, by Way of a Hot Air Balloon" (2009) by <a href="https://www.flickr.com/photos/walkadog/">Beverly & Pack</a>, <a href="https://www.flickr.com/photos/walkadog/3897126692/">on Flickr</a>. <a href="https://creativecommons.org/licenses/by/2.0/">CC-BY-2.0</a>.
 </figcaption>
 </figure>
 
@@ -130,7 +130,7 @@ Here's what I'm using, and you can find it already in your repo (under "in-class
 # Homework for next time:
 
 <div class="alert alert-danger">
-Important note: **No class on Tuesday, 2/23! It's a self-care day!** I'll be around <a href="../office">office hours</a> tomorrow and on Wednesday, but otherwise I'll see you next Thursday, 2/25.
+Important note: <strong>No class on Tuesday, 2/23! It's a self-care day!</strong> I'll be around <a href="../office">office hours</a> tomorrow and on Wednesday, but otherwise I'll see you next Thursday, 2/25.
 </div>
 
 * **Skim** the visual media [resources]({{site.github_url}}/resources) on the course site, and read/watch more deeply in anything that seems like it would help you, whether [advice]({{site.github_url}}/resources#visual) or [material to work with]({{site.github_url}}/resources#visuals).

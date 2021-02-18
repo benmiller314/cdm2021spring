@@ -141,7 +141,7 @@ For next time:
 For next time, which is not until a week from now:
 * **Skim** the visual media [resources]({{site.github_url}}/resources) on the course site, and read/watch more deeply in anything that seems like it would help you.
 * In particular, I highly recommend the LinkedIn Learning series of videos on "GIMP Essential Training." It's about *5* hours of material, but as before, [I've marked some highlights and starting points]({{site.github_url}}/resources#lil-gimp). I've been using GIMP for years, and I confess I learned some things even from the basic tool options videos. Note that there are exercise files, should you want to follow along and make sure it works in practice.
-  - If you've been having trouble with LinkedIn Learning, try [this LIL link, which routes through MyPitt](https://my.pitt.edu/launch-task/all/cssd-linkedinlearning?terms=linkedin&roles=). I also  
+  - If you've been having trouble with LinkedIn Learning, try [this LIL link, which routes through MyPitt](https://my.pitt.edu/launch-task/all/cssd-linkedinlearning?terms=linkedin&roles=). I also am happy to troubleshoot with you during office hours! 
 * **Write** a visual rhetoric proposal, including a prospective asset list; post to <a href="{{site.github.issues_url}}">the issue queue</a>
 
 <div class="alert alert-danger">

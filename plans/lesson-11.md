@@ -10,9 +10,10 @@
 
 <!-- 1. Guiding thoughts for Studio (5-15 min) -->
 1. Gathering questions (12-15 min)
-2. HW Preview: it's a preview (and reading about fonts)
-3. Studio time (pomodoros optional)
-4. Exit note (5 min)
+2. Looking ahead
+3. Guiding thoughts for studio
+4. Studio time! (pomodoros optional)
+5. Exit note (5 min)
 
 ## 1. Gathering questions (12-15 min total)
 
@@ -34,7 +35,7 @@ In a moment, I'm going to open up breakout rooms for folks who'd like to dive in
 
 For those diving in, I will ask that you begin by writing some goals and intentions in the google doc, and that you end by replying to those notes with how it actually went.
 
-To help you think about possible goals, I want to preview the homework.
+To help you think about possible goals, I want to [preview the homework](#homework-for-next-time).
 
 
 ## 3. Guiding thoughts for Studio (5-15 min)
@@ -77,7 +78,7 @@ As in the past, I'm going to put these words of advice here for you to peruse at
 
 <!-- ALT: If your proposal already includes this level of planning, you can use the time to skim through the rest of the [visual argument examples]({{site.github.issues_url}}/7) your classmates posted. Maybe you'll find new inspiration! -->
 
-## Studio Time!
+## 4. Studio Time!
 Some preview of the project will be due before next class, just to make sure you're all getting started on it.
 
 Therefore, the rest of today's class is all about working on your individual projects! Find source images or text, level up on layering, watch relevant tutorials on effects or on layout, and see what happens when you apply them to your own digital canvas.
@@ -104,7 +105,7 @@ Pomodoros are optional today, but encouraged; you can keep your own time, or coo
 </div>
 
 
-## Quick report back (with 5 min left)
+## 5. Quick report back (with 5 min left)
 
 Just as a way for me to check in, I'd like to hear more about what happened today: did you find images? Level up on a particular GIMP skill? Which ones? Decide something about your project (what was it)? Raise a question in a new way that you'd like some help with?
 
@@ -113,7 +114,7 @@ Take five minutes to reply to your own notes in <a href="http://bit.ly/cdm2021sp
 
 ## Homework for next time
 
-* **Read** about fonts, if you haven't yet, at [https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/](https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/).
+* **Read** about fonts, if you haven't yet, at [https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/](https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/). <!-- Note that I'm still looking for better options here. There's maybe a little bit of subtle racism in the pink suit, which the author doesn't like but I think is actually working. If you know of a better one-page intro to choosing fonts, please send it my way! -->
    - Optionally, **play** a font-matching game at [www.typeconnection.com](http://www.typeconnection.com/) to get a sense of (a) what sorts of fonts are out there and (b) how designers go about pairing fonts for what Thompson called hierarchy by "style."
 
 * Compose a **Visual Argument Preview**: an early snapshot of your progress, to get the gears turning, to get practice with GIMP, and to start testing out the ideas from your proposal (or beyond).
@@ -125,3 +126,5 @@ Take five minutes to reply to your own notes in <a href="http://bit.ly/cdm2021sp
    <li> An updated <strong>assets.md</strong> file, now with the files you're actually obtained. As you go, add source documentation for any outside sources – and your permission to use them (e.g. licenses, fair use; see <em>Writer/Designer</em> p. 160-165). </li>
    <li>An <strong>exported .png file</strong>. As with Audacity, GIMP's default save mode is a complex / modular "project file," of type .xcf; should the project fail to load, it would be great to have a simple image file as a backup. We won't be able to see how you achieved your layout, but we will be able to see the image. <ul><li><em>Sweet bonus:</em> you'll also be able to <a href="https://docs.github.com/en/free-pro-team@latest/github/managing-files-in-a-repository/rendering-and-diffing-images">use GitHub history to compare one .png to another</a>, side by side, or even slide to reveal the change. Pretty cool, no?</li></ul></li>
    </ul>
+
+Where possible, bear in mind the [guiding thoughts from above](#3-guiding-thoughts-for-studio--5-15-min)

@@ -56,7 +56,7 @@ Here's a project from last semester that I was planning to nominate for the Digi
 <h2>We can't change it if we don't talk about it.</h2>
 Let's destigmatize talking about women's health and end the #TamponTax together.
 
-<section>Sources: Image: "Woman" by Bard Avison, NZ the nounproject.com CCBY, Statistics: "The Cost of Tampons od hurting low-income girls. Let's fix that" By Nadya Okamoto and Maria Molland for CNN Business, Fonts: "Bigfat Script" by Hendra Pratama, "The Bold Font" by Sven Pels, "CHampagne and Limousines" by Lauren Thompson (all from dafont.com)</section>
+<section>Sources: Image: "Woman" by Bard Avison, NZ the nounproject.com CCBY, Statistics: "The Cost of Tampons is hurting low-income girls. Let's fix that" By Nadya Okamoto and Maria Molland for CNN Business, Fonts: "Bigfat Script" by Hendra Pratama, "The Bold Font" by Sven Pels, "CHampagne and Limousines" by Lauren Thompson (all from dafont.com)</section>
 </div>
 </figure>
 

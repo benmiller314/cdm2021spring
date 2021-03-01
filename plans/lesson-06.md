@@ -8,7 +8,7 @@
 **Plan for the Day**:
 1. Reflective writing (5 min)
 2. Refresher on soundscapes we've liked (5 min)
-3. Gathering criteria (30 min)
+3. Gathering criteria (30-45 min)
 4. Studio and microconferences (30 min)
 5. HW Preview (5 min)
 

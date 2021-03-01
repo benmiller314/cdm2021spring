@@ -113,7 +113,7 @@ Take five minutes to reply to your own notes in <a href="http://bit.ly/cdm2021sp
 
 
 ## Homework for next time
-
+<!-- Do I want to put this reading on Perusall next time?  -->
 * **Read** about fonts, if you haven't yet, at [https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/](https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/). <!-- Note that I'm still looking for better options here. There's maybe a little bit of subtle racism in the pink suit, which the author doesn't like but I think is actually working. If you know of a better one-page intro to choosing fonts, please send it my way! -->
    - Optionally, **play** a font-matching game at [www.typeconnection.com](http://www.typeconnection.com/) to get a sense of (a) what sorts of fonts are out there and (b) how designers go about pairing fonts for what Thompson called hierarchy by "style."
 

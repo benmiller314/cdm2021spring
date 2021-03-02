@@ -82,7 +82,7 @@ Questions your group can't answer? Post them to the google doc, and see if anoth
 
 <div class="alert alert-success">As always, please set yourself some <a href="http://bit.ly/cdm2021spring-notes">studio goals in the doc</a>; set a timer, leaving the last 5-10 minutes for an exit note; and then write that exit note on what you were able to achieve / what your next steps are, adding it to your initial goals back in the doc.</div>
 
-**Don't forget to save and commit as you go!**
+<p class="text-center"><strong>Don't forget to save and commit as you go!</strong></p>
 
 <div class="alert alert-warning">
 NB: If you're joining us asynchronously, please do add your goals and reflections to the doc whenever you're able to "do" today's lesson.
@@ -94,7 +94,7 @@ EXT: If you're feeling stuck in studio, check to see if you can answer questions
 
 ## For next time:
 * **Work** to bring in a _full draft_: a solid attempt at a complete visual argument, ideally meeting baseline criteria. Rough edges are still welcome.
-  - Remember that *you don't need to change the project filename from draft to draft*: Why duplicate or triplicate your file storage needs? If it's the same basic project, just further along, you can and keep track of which draft is which by describing what's new in your commit messages.
+  - Remember that you don't need to change the project filename from draft to draft: Why duplicate or triplicate your file storage needs? If it's the same basic project, just further along, you can and keep track of which draft is which by describing what's new in your commit messages.
 * **Continue** taking periodic screenshots and posting meaningful commit messages in Git
 * By Thursday morning, **push** the draft, with the same four parts as the preview *plus* an updated file crediting your sources and permissions/license to use them
   - NB: Your filenames should have an extension at the end, like .md (for Markdown files) or .txt (for plaintext files). These extensions tell the computer how to render the file. Without that info, GitHub will default to treating things as text, but your workshop partner's computer may just get confused and not display it at all.

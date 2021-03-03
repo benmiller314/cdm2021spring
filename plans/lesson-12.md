@@ -1,7 +1,4 @@
 
-
-
-
 # Visual Unit Criteria and Stretch Goals
 
 **Work to have done**:

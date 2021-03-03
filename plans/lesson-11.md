@@ -53,7 +53,7 @@ As in the past, I'm going to put these words of advice here for you to peruse at
 
 <details><summary>Remember our strategies for drawing attention</summary>
 
-, which you can use to signal your hierarchy through scale, value, color, proximity, and style: see the [notes from last week](http://bit.ly/cdm2021spring-notes#heading=h.z55p3g78u32k) on "Keywords toward a Visual Rhetoric."
+, which you can use to signal your hierarchy through scale, value, color, proximity, and style: see the <a href="http://bit.ly/cdm2021spring-notes#heading=h.z55p3g78u32k">notes from last week</a> on "Keywords toward a Visual Rhetoric."
 
 <p>According to <a href="https://www.thetypetree.com/blog/graphic-design-101-dominancehierarchy">Thompson</a> (our reading from last week), <strong>you can reliably convey only about three levels of dominance</strong>; after that, it starts to get mushy. At some point as you work on your proposed visual argument / rhetorical collage, therefore, you might want to reflect in writing:
 <ul>

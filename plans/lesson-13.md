@@ -131,7 +131,7 @@ NB: If one of your partners has not yet posted a draft, reclaim that time for an
 <div class="alert alert-warning">
 <p>If you're participating asynchronously, please try to complete your review by the end of Saturday night, so your partners can have some weekend time (when most of you said you have more time to work) with your feedback in mind. Friday would be even better.</p>
 
-<p>If that's just not possible (and I understand how that might be the case), let me know asap and I'll make sure the others get my feedback in the meantime. Monday night is about the latest it might still be helpful, so that's the async attendance deadline, and your partner ; just confirm that you've pulled the latest version whenever you start.</p>
+<p>If that's just not possible (and I understand how that might be the case), let me know asap and I'll make sure the others get my feedback in the meantime. Monday night is about the latest it might still be helpful, so that's the official async participation deadline; just confirm that you've pulled the latest version whenever you start.</p>
 </div>
 
 

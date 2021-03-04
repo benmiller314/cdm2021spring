@@ -151,7 +151,7 @@ On subsequent loops, <em>after</em> viewing the project first, you may also want
 ## 5. Evaluation revisited (10 min)
 If you finish early and are waiting for your classmates, first take a minute to reread the comments you just *gave*: can you tell from your description what the image contains / conveys, or do you assume someone else is looking at it?
 
-If you're satisfied, reflect in your own notes on this process: did it help you realize anything about the criteria, or about your own project, or about data writing more broadly? Did it raise any new questions?
+If you're satisfied, reflect in your own notes on this process: did it help you realize anything about the criteria, or about your own project, or about digital composing more broadly? Did it raise any new questions?
 
 If you want to share any insights, I'd love to hear them! Since we likely don't have time to talk it through, you can add comments or suggestions (or anonymous notes) to the shared google doc.
 

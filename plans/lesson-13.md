@@ -94,7 +94,6 @@ To target (but not guarantee) a grade above a B, the best projects for this unit
 ### Detailed instructions for workshop-at-a-distance
 
 1. Go to your first partner's repo on GitHub, and use the green "Code" button. If you have a fast connection and lots of disk space, you can clone (e.g. with the "Open with GitHub Desktop" option); otherwise, you might be better off using the **Download ZIP** option. <figure><img src="../assets/img/github--clone-code-zip.png" alt="Code button to clone repo; also includes the URL to use with the command line." /></figure>
-
   - should be faster than cloning, because it leaves out the history of changes (which you can still find on GitHub)
   - shouldn't cause conflicts with your own repository
   - still, you may want to add your partner's name to the file/folder's name, just to be safe

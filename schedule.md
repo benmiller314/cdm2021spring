@@ -141,7 +141,7 @@ For next time:
 For next time, which is not until a week from now:
 * **Skim** the visual media [resources]({{site.github_url}}/resources) on the course site, and read/watch more deeply in anything that seems like it would help you.
 * In particular, I highly recommend the LinkedIn Learning series of videos on "GIMP Essential Training." It's about *5* hours of material, but as before, [I've marked some highlights and starting points]({{site.github_url}}/resources#lil-gimp). I've been using GIMP for years, and I confess I learned some things even from the basic tool options videos. Note that there are exercise files, should you want to follow along and make sure it works in practice.
-  - If you've been having trouble with LinkedIn Learning, try [this LIL link, which routes through MyPitt](https://my.pitt.edu/launch-task/all/cssd-linkedinlearning?terms=linkedin&roles=). I also am happy to troubleshoot with you during office hours! 
+  - If you've been having trouble with LinkedIn Learning, try [this LIL link, which routes through MyPitt](https://my.pitt.edu/launch-task/all/cssd-linkedinlearning?terms=linkedin&roles=). I also am happy to troubleshoot with you during office hours!
 * **Write** a visual rhetoric proposal, including a prospective asset list; post to <a href="{{site.github.issues_url}}">the issue queue</a>
 
 <div class="alert alert-danger">
@@ -173,6 +173,7 @@ For next time:
 For next time:
 
 <!-- Ordinarily, a final draft is due one week after the workshop, which would be Thursday. But the two days between now and then are too short, and once it's due after Thursday's class, might as well have the weekend available. -->
+* To get ready for our upcoming web design unit, download and install the [Atom text editor](http://atom.io). (If you already have a syntax-highlighting text editor, that's also fine. A word processor like Microsoft Word is not.)
 * **By 11:59pm on Sunday,** complete – at least for now – your visual argument, along with a prose reflection that incorporates images from your feedback and screenshots of your GIMP project.
 <!-- BEN HW: prepare a ppt on HTML, separation of content and display. See notes in /old-plans/2019fall/lesson-17.md, and also your Seminar in Pedagogy notebook from 2019 spring. -->
 

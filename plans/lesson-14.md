@@ -25,7 +25,7 @@ I'll make pomodoro timers optional but encouraged again: I can't be in every roo
 Some seeds of revision possibilities I want to plant, based on seeing the latest drafts (as of Monday afternoon):
 
 <details>
-<summary><em>Consider how alignment, enclosure, and proximity signal association.</em></summary>
+<summary>Consider how alignment, enclosure, and proximity signal association.</summary>
 
 <p>Psychologists studying perception have identified many <a href="https://en.wikipedia.org/wiki/Principles_of_grouping">principles of grouping</a>, by which disparate objects are interpreted – more or less automatically – as being part of the same object. We've seen some of these at work already in thinking about proximity and color, but it's worth thinking about how to use these principles to signal <em>the same level of hierarchy</em>, rather than for dominating attention.</p>
 
@@ -36,7 +36,7 @@ Some seeds of revision possibilities I want to plant, based on seeing the latest
 </details>
 
 <details>
-<summary><em>Have a lot of content? Not sure where text could fit? Consider panels.</em></summary>
+<summary>Have a lot of content? Not sure where text could fit? Consider panels.</summary>
 
 <p>This is related to the Gestalt <a href="https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/#common-regions:~:text=%E2%80%9CElements%20are%20perceived%20as%20part%20of%20a%20group%20if%20they%20are%20located%20within%20the%20same%20closed%20region.%E2%80%9D">principle of common regions</a>. Much as a comic strip uses boxes to indicate a sequence of connected moments in time, you can divide your canvas into distinct areas, which can provide breath and space while preserving movement. There are several ways to define your areas: with distinct blocks of background image, color, or pattern; with a semi-opaque layer of white or black, acting like frosted glass over the layer below; or with positive-space images that cut between one chunk of the image and another.</p>
 
@@ -45,7 +45,7 @@ Some seeds of revision possibilities I want to plant, based on seeing the latest
 </details>
 
 <details>
-<summary><em>Consider pointing viewers toward a follow-up.</em></summary>
+<summary>Consider pointing viewers toward a follow-up.</summary>
 
 <p>Many of you are trying to get viewers to take an action; if you haven't yet, consider giving them a place to go to get involved, or to get more information. Make this link large enough to be easily readable, even though it probably won't fall at the top level of your visual hierarchy (because it makes more sense as the last thing, rather than the first thing, they see).</p>
 
@@ -55,7 +55,7 @@ Some seeds of revision possibilities I want to plant, based on seeing the latest
 </details>
 
 <details>
-<summary><em>Help your text pop.</em></summary>
+<summary>Help your text pop.</summary>
 
 <p>If you have text on your image, it can be tricky to get it to stand out against the background. Luckily, in a digital medium, we can collaborate with the machine to get some automated help. Play around with drop-shadow, or even the <strong>Xach effect</strong> – a quick-hit combination of highlight and drop-shadow – as explained in <a href="https://www.youtube.com/watch?v=oJiesAV32-8">this tutorial</a>. NB: this works by adding two new layers (a shadow, and a highlight), one of which is masked; you can change the order of layers to affect only the ones you want.</p>
 
@@ -71,7 +71,7 @@ Some seeds of revision possibilities I want to plant, based on seeing the latest
 </details>
 
 <details>
-<summary><em>Consider naming and/or grouping your layers.</em></summary>
+<summary>Consider naming and/or grouping your layers.</summary>
 
 GIMP doesn't let you select multiple layers at a time, but there is a workaround: as in PowerPoint, you can group objects (layers) together, and then move (or modify) the group as a unit. See <a href="https://docs.gimp.org/en/gimp-layer-groups.html">docs.gimp.org/en/gimp-layer-groups.html</a>.
 
@@ -81,7 +81,7 @@ Note the opportunity to then further organize your workspace with good naming pr
 </details>
 
 <details>
-<summary><em>Remember that scaling down is easier than scaling up</em></summary>
+<summary>Remember that scaling down is easier than scaling up</summary>
 
 <p>We talked about this a bit at the start of the unit, but it may bear repeating: both GIMP and Photoshop deal primarily in pixels, not vectors. (For vector graphics, try Inkscape and Adobe Illustrator.) So when you scale down an image or text, the software throws away the pixels it no longer needs; but if you then scale back up, it has to guess about what could fill in the gaps, and usually you'll get a blocky, pixellated appearance. Unless you're going for a Minecrafty look, that's probably not what you wanted.</p>
 
@@ -90,7 +90,7 @@ Note the opportunity to then further organize your workspace with good naming pr
 </details>
 
 <details>
-<summary><em>Don't forget your README – and consider adding a title there.</em></summary>
+<summary>Don't forget your README – and consider adding a title there.</summary>
 
 A title can provide a context, a clue, a genre, a commentary; it can add an extra layer to viewer expectations. What will you call your collage?
 
@@ -99,7 +99,7 @@ Not sure where a title would go? Think of placards in museums: alongside the ima
 
 
 <!-- <details>
-<summary><em>Articulate permissions.</em></summary>
+<summary>Articulate permissions.</summary>
 
 If you're using images you didn't make yourself, be sure to include enough information to recover where it came from: a direct link to the image and to the specific license (if there is one) is ideal. Where to do this? Ideally, somewhere small in the image file itself: along a border, say, in a 10-point font. If you have a lot of images, and can't fit the credits on your image even with a small font, you can instead link to a file in your repository. Link shorteners, like ow.ly and bit.ly, will help here.
 
@@ -107,7 +107,7 @@ If you're using images you didn't make yourself, be sure to include enough infor
 </details>
 
 <details>
-<summary><em>If your effects aren't showing up, try increasing the layer size.</em></summary>
+<summary>If your effects aren't showing up, try increasing the layer size.</summary>
 
 Sometimes GIMP seems to promise the world, but when you apply the effect, it's like nothing happened. In these cases, it's often possible that you're just reaching past the edge of your workspace. See whether you get better results after Layer > Layer to Image Size (or give yourself more room overall with Image > Canvas Size).
 </details> -->
@@ -115,7 +115,7 @@ Sometimes GIMP seems to promise the world, but when you apply the effect, it's l
 <!--
 
 <details>
-<summary><em>Consider whether you have enough screenshots.</em></summary>
+<summary>Consider whether you have enough screenshots.</summary>
 
 <p>Think about what moments are worth remembering as you go: where did you level up, or realize something, or get stuck? Take a <a href="https://www.take-a-screenshot.org/">screenshot</a> in the moment, so you can refer back to it in your reflection.</p>
 

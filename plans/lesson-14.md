@@ -178,7 +178,7 @@ Next class will be a moment of pause for reflection on the course as a whole, wh
 Other than that, we're looking ahead:
 
 * If you haven't yet done so, and you don't already have an html-friendly IDE you prefer, please download and install the [Atom text editor](http://atom.io); we'll be using it for our upcoming web design unit.
-* Have a look at what your classmates have posted to the [issue queue]{{site.github.issues_url}}], looking forward to the integration/consolidation unit. Anything you're excited by? Anything you want to add?
+* Have a look at what your classmates have posted to the [issue queue]({{site.github.issues_url}}), looking forward to the integration/consolidation unit. Anything you're excited by? Anything you want to add?
 * Aiming for 11:59pm on Sunday, **complete – at least for now – your visual argument / rhetorical collage.** Your repository (on GitHub or in a shared Box folder) should include:
    - Your most up-to-date layered project file (.xcf for GIMP, .psd for Photoshop)
    - A series, now, of screenshots showing your GIMP project in progress

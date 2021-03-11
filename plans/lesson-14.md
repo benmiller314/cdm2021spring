@@ -185,9 +185,9 @@ Other than that, we're looking ahead:
    - An exported flat image (.png or .jpeg), for speedy previewing or as a backup should something go wrong with the project file
    - An updated ASSETS.md (or CREDITS.md) file reflecting what you actually used, including documentation of any outside sources and your permission to use them (e.g. explicit licenses like CC, or rationales for claiming fair use)
    - An updated README.md file introducing your collage to a new audience. **Give your piece a title!** Make it something to live beyond this assignment, if you can. :¬)
-* By Tuesday's class, **write a prose reflection** that incorporates images from your feedback and screenshots of your GIMP project. As explained in the [prompt for the assignment](https://github.com/benmiller314/visual-argument-2020fall#deadlines-and-products), this should include:
+* By Tuesday's class, **write a prose reflection** that incorporates images from your feedback and screenshots of your GIMP project. As explained in the [prompt for the assignment](https://github.com/benmiller314/visual-argument-2021spring#deadlines-and-products), this should include:
    - At least 500 words
-   - Your own assessment of how you met the [baseline criteria](http://bit.ly/cdm2021spring) and goals for the unit, as well as any aspirational goals as appropriate
+   - Your own assessment of how you met the [baseline criteria](http://bit.ly/cdm2021spring#heading=h.ka3w89gepyus) and goals for the unit, as well as any aspirational goals as appropriate
    - At least one screenshot or blockquote of feedback you used (and please say how)
    - At least one or two screenshots of your work in progress (ideally, related to the discussion in the previous two bullets)
 * **Post your reflection** to the course site's [Issue queue]({{site.github.issues_url}}), to make it easier to embed images.

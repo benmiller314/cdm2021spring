@@ -15,7 +15,7 @@
 
 We begin with writing, as a way of priming the pump of conversation, but also, really, as a way of letting your thoughts surface: writing can be a way of telling yourself what you think. It can lead to surprises, if you let it.
 
-I'll give you a series of starting points; **start with the prompt that speaks the most to you right now, and then move on to others** as you finish answering. Write your response somewhere you'll be able to refer back to it. _Sharing the writing itself will be optional, but I do hope everyone will share *some* thoughts aloud today_, using your notes as a starting point.
+I'll give you a series of openings; **start with the prompt that speaks the most to you right now, and then move on to others** as you finish answering. Write your response somewhere you'll be able to refer back to it. _Sharing the writing itself will be optional, but I do hope everyone will share *some* thoughts aloud today_, using your notes to jump off from.
 
 We'll take about 10 minutes here.
 
@@ -25,8 +25,8 @@ We'll take about 10 minutes here.
 <li>What do you see as the goals of this assignment <strong>sequence</strong>? For example, what do you see as the relationship among these projects, including the differences between them – or between these and other writing you've done? Would the projects work together in a different order? Would they work in the same way?</li>
 
 <li>See if you can finish one of the following <strong>similes</strong>:<ul><li><em>Writing with {sound, images} is like...</em></li>
-<li><em>Writing with {Audacity, GIMP} is like...</em></li>
-<li><em>Writing with version control (i.e. git/GitHub) is like...</em></li>
+<li><em>Writing with {Audacity, GIMP, Photoshop} is like...</em></li>
+<li><em>Writing with version control (e.g. git/GitHub/GH Desktop) is like...</em></li>
 <li><em>Writing all these reflections is like...</em></li></ul> It's okay to be a little wacky here. Follow your instincts. If you have time, explain the connection.</li>
 
 <li>What changes, if any, have you found in the way you <strong>consume</strong> digital media? Have you found yourself noticing anything new, or differently?</li>
@@ -35,13 +35,14 @@ We'll take about 10 minutes here.
 
 </ol>
 
-EXT 1: If you have a solid metaphor or simile, something that feels true, what does that metaphor suggest you might do in the real world to continue learning and 'leveling up'? If you don't have one yet, go back and try to write one now.
-
-EXT 2: Reflect on your goals for the course: given your goals and expectations when you began this class, what have you begun to learn? Combined with what you now know about our projects and scheduling patterns, what would you give yourself as a goal for the rest of the term?
-
 <div class="alert alert-info">
 Again, <strong>I won't collect these directly, but I will ask for volunteers to share as part of a discussion in today's class.</strong> That said, you should also keep them to help you develop your pitch for a consolidation/integration project, and as a snapshot of your progress to look back on (and possibly quote) in a final reflection for the end of the course.
 </div>
+
+EXT 1: If you have a solid metaphor or simile from question 4 above, something that feels true, what might you do in the metaphorical world to continue learning and 'leveling up'? What does that metaphorical advice suggest you might try in the real world? If you don't have one yet, go back and try to write one now.
+
+EXT 2: Reflect on your goals for the course: given your goals and expectations when you began this class, what have you begun to learn? Combined with what you now know about our projects and scheduling patterns, what would you give yourself as a goal for the rest of the term?
+
 
 <div class="alert alert-warning">To get credit for asynchronous participation,
 <ul>
@@ -59,7 +60,7 @@ Anyone have a different response?
 Again, I'd really like to get everyone's voices in the room today. (Or, if you're responding asynchronously, soon.)
 
 
-Any outstanding questions, or questions you'd prefer remain anonymous, please post to the [shared google doc](http://bit.ly/cdm2021spring-notes)
+Any outstanding questions, or questions you'd prefer remain anonymous, please post to the [shared google doc](http://bit.ly/cdm2021spring-notes).
 
 
 
@@ -80,12 +81,14 @@ But I do want to share some of my favorite features, the things I use all the ti
   - Your most up-to-date layered project file (.xcf for GIMP, .psd for Photoshop)
   - An exported flat image (.png or .jpeg), for speedy previewing or as a backup should something go wrong with the project file
   - A series, now, of screenshots showing your GIMP project in progress
-  - An updated ASSETS.md (or CREDITS.md) file reflecting what you actually used, including documentation of any outside sources and your permission to use them (e.g. explicit licenses like CC, or rationales for claiming fair use)
+  - An updated ASSETS.md (or credits.md, or put it at the bottom of your README.md) file reflecting what you actually used, including documentation of any outside sources and your permission to use them (e.g. explicit licenses like CC-BY, or rationales for claiming fair use)
   - An updated README.md file introducing your collage to a new audience. **Give your piece a title!** Make it something to live beyond this assignment, if you can. :¬)
-  NB: If GH or git-lfs is giving you problems, you may need to create a fresh repository. In that case, just be sure to link to it prominently in the README.md file of the repo you forked from my assignment.
+
+<div class="alert alert-info">NB: If GH or git-lfs is giving you problems, you may well need to create a fresh repository. In that case, just be sure to link to it prominently in the README.md file of the repo you forked from my assignment.</div>
+
 * By Tuesday's class, **write a prose reflection** that incorporates images from your feedback and screenshots of your GIMP project. As explained in the [prompt for the assignment](https://github.com/benmiller314/visual-argument-2021spring#deadlines-and-products), this should include:
    - At least 500 words
-   - Your own assessment of how you met the [baseline criteria](http://bit.ly/cdm2021spring#heading=h.ka3w89gepyus) and goals for the unit, as well as any aspirational goals as appropriate
+   - Your own assessment of how you met the [baseline criteria](http://bit.ly/cdm2021spring-notes#heading=h.ka3w89gepyus) and goals for the unit, as well as any aspirational goals as appropriate
    - At least one screenshot or blockquote of feedback you used (and please say how)
    - At least one or two screenshots of your work in progress (ideally, related to the discussion in the previous two bullets: e.g., can you show a before/after? can you focus the screenshot on something you're proud of?)
 

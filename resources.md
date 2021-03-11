@@ -198,11 +198,11 @@ Under the <a href="#free-and-licensed-images-sounds-and-other-assets">assets lis
 <dd>This may be less relevant for this particular assignment, but I was searching the web for a recording of Ira Glass talking about <em>This American Life</em> and how to write stories for the radio, but instead I found an interview-in-writing – for LifeHacker, of all things – in which he answers the question, <a href="https://lifehacker.com/im-ira-glass-host-of-this-american-life-and-this-is-h-1609562031">"What everyday thing are you better at than everyone else? What’s your secret?"</a> with a really great and concise rendering of how he takes hours of tape and condenses them into a story. So if you've got too much textual material for your audio remediation, and you're not sure how to render it down, click the link above and search for that question.</dd>
 
 <dt>Examples of Transcripts</dt>
-<dd>A readable transcript for an audio piece is a Good Thing to place alongside the sound file: it's not only more accessible for the temporarily or permanently hearing-impaired, but it also makes your piece easier to search for (and within).
+<dd><p>A readable transcript for an audio piece is a Good Thing to place alongside the sound file: it's not only more accessible for the temporarily or permanently hearing-impaired, but it also makes your piece easier to search for (and within).</p>
 
-NPR's <em>This American Life</em> does a great job of this, unsurprisingly, and they're relatively straightforward in format, too. Why not check out some of their <a href="https://www.thisamericanlife.org/recommended">recommended episodes</a>, including a primer for listeners <a href="https://www.thisamericanlife.org/recommended/new-to-this-american-life">new to the show</a> that tipped me off to this <a href="https://www.thisamericanlife.org/109/notes-on-camp">one on camp</a>. (I was excited by this description: <em>"This one drops you in a place and immerses you there so quickly and happily. Just a deeply cheerful trip into childhood summertime."</em>) Or, for something closer to the length of what you'll be working on – a special episode with <a href="https://www.thisamericanlife.org/241/20-acts-in-60-minutes">20 acts in 60 minutes</a>?
+<p>NPR's <em>This American Life</em> does a great job of this, unsurprisingly, and they're relatively straightforward in format, too. Why not check out some of their <a href="https://www.thisamericanlife.org/recommended">recommended episodes</a>, including a primer for listeners <a href="https://www.thisamericanlife.org/recommended/new-to-this-american-life">new to the show</a> that tipped me off to this <a href="https://www.thisamericanlife.org/109/notes-on-camp">one on camp</a>. (I was excited by this description: <em>"This one drops you in a place and immerses you there so quickly and happily. Just a deeply cheerful trip into childhood summertime."</em>) Or, for something closer to the length of what you'll be working on – a special episode with <a href="https://www.thisamericanlife.org/241/20-acts-in-60-minutes">20 acts in 60 minutes</a>?</p>
 
-You access the transcript from the top of each full episode page, but you can jump to specific sections, or "acts," when choosing what to listen to.
+<p>You access the transcript from the top of each full episode page, but you can jump to specific sections, or "acts," when choosing what to listen to.</p>
 </dd>
 
 <dt>On minding P's and S's</dt>
@@ -310,8 +310,12 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 <dd><p>There are lots of great coding-friendly text editors out there, and even many excellent free ones. Essential features to look for are <em><a href="https://en.wikipedia.org/wiki/Syntax_highlighting#:~:text=Syntax%20highlighting%20is%20a%20feature,to%20the%20category%20of%20terms">syntax highlighting</a></em> and the ability to <em>view several files side-by-side</em>.</p>
 <p>Lately I've been pretty into Atom: it's cross-platform; it uses your existing file system for project management (rather than inventing its own file system); it has flexible panes for viewing; it's open source and extendable – and thus has lots of packages out in the world, including for rendered HTML or Markdown previews. Plus, it can work directly with git and GitHub, without even having to leave the editor. </p>
 <p>I'm still in the market for good tutorials on working with Atom, but <a href="https://www.youtube.com/playlist?list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_">this one from Level Up</a> looks pretty decent; essential episodes include <a href="https://www.youtube.com/watch?v=ZnzLPIhMJnw&list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_&index=4">#3 The Atom Interface with Tips and Tricks</a> and <a href="https://www.youtube.com/watch?v=IgSW1umKrVs&list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_&index=7">#6 Project Management In Atom</a>.</p>
+
 </dd>
+</dt
+</dt></dt>
 </dl>
+
 
 <!-- A way to embed working forms on a static GH Pages site? Need to verify: https://medium.com/@asjas/using-formspree-io-on-your-github-pages-a60c290d1ee -->
 
@@ -321,7 +325,7 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 
 ## File Compression
 
-If you're having trouble uploading large files to GitHub or through email, you can try <em>compressing</em> the files. But while most computers come with built-in compression algorithms, they tend not to be very good. Luckily, there are several excellent and free applications that will happily shrink your file sizes. Here are some 2017 roundups:
+If you're having trouble uploading large files to GitHub or through email, you can try <em>compressing</em> the files. But while most computers come with built-in compression algorithms, they tend not to be very good. Luckily, there are several excellent and free applications that will happily shrink your file sizes. Here are some recent roundups:
 
 * For any file/folder on **Windows:** <a href="http://www.makeuseof.com/tag/the-top-3-file-compression-extraction-softwares/">www.makeuseof.com/tag/the-top-3-file-compression-extraction-softwares/</a>
 * For any file/folder on **Mac:** <a href="https://mac.eltima.com/best-archiver-mac.html">mac.eltima.com/best-archiver-mac.html</a>

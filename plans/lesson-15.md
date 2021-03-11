@@ -76,7 +76,7 @@ But I do want to share some of my favorite features, the things I use all the ti
 
 # For next time:
 
-* **Aiming for 11:59pm on Sunday,** complete – at least for now – your visual argument / rhetorical collage. Your repository, once again, should include...
+* Aiming for 11:59pm on Sunday, **complete – at least for now – your visual argument / rhetorical collage.** Your repository, once again, should include...
   - Your most up-to-date layered project file (.xcf for GIMP, .psd for Photoshop)
   - An exported flat image (.png or .jpeg), for speedy previewing or as a backup should something go wrong with the project file
   - A series, now, of screenshots showing your GIMP project in progress

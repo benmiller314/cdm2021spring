@@ -70,6 +70,8 @@ Table of contents:
 <dd><p>If you get an error message telling you that you can't push to GitHub because your files are too large, try <a href="https://git-lfs.github.com/">Git Large File Storage</a> (git-lfs): it stores large files on a separate server, and converts the file in your GH repo into a tiny pointer file. The <a href="https://docs.github.com/en/free-pro-team@latest/github/managing-large-files/versioning-large-files">documentation</a> is pretty clear, though it does involve a little command-line fu at times. (Nothing major: you can just follow the steps.) And when it's all set up, it works in GitHub Desktop pretty seamlessly.</p>
 
 <p>The one catch is that if you're using git-lfs on a forked repo, the extra storage you get counts against the quota of the <em>upstream</em> fork, so if everyone uses it for CDM assignments, eventually I run out of data and *nothing* can be pushed. So at the end of the semester, I'll ask you to re-clone your repo and add a new remote branch that's not on my fork tree. But we'll cross that bridge if/when we come to it!</p>
+
+<p>Oh! And if you discover that you have large files you can't push after they're already in your commit history, you'll need to start managing *those* large files with git-lfs, too. Luckily there's now [a (simple command line) tool to help you do that](https://github.blog/2017-06-27-git-lfs-2-2-0-released/)!</p>
 </dd>
 
 <dt><a href="https://education.github.com/git-cheat-sheet-education.pdf">Git Cheat Sheet</a></dt>

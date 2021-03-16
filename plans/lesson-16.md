@@ -1,7 +1,7 @@
 
 # Intro to Markup and Web Design
 
-**Work to have done**: Try and relax!
+**Work to have done**: Finish Visual Argument / Rhetorical Collage
 
 **Plan for the day**:
 

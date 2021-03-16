@@ -201,20 +201,23 @@ For next time:
 * **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/) tutorial as you can – but **at least parts 1-4** (from "Introduction" through "Hello, CSS").
   * Heads up to fast workers: Float layouts used to be a big deal, but aren't as widely recommended any more. You can probably skip that chapter, at least for now.
 * **Show your work** by pushing your tutorial code to a repository.
-  * If it's not working the same as in the tutorial, please do check with me! I'll set aside some breakout group time on Tuesday, but feel free to email or use the [issue queue]({{site.github.issues_url}}) in the meantime: see if your question's been answered, and if not, [post a new issue]({{site.github.issues_url}}/new/choose), because you're probably not alone.
+  * If it's not working the same as in the tutorial, please do check with me! I'll set aside some breakout group time on Thursday, but feel free to email or use the [issue queue]({{site.github.issues_url}}) in the meantime: see if your question's been answered, and if not, [post a new issue]({{site.github.issues_url}}/new/choose), because you're probably not alone.
+  
 <!-- * *Optionally* bring headphones for sonic isolation during studio time -->
 
 
 <h3><a href="{{site.github_url}}/plans/lesson-17">Lesson 17, Thursday 3/18</a> – Generative Studio, troubleshooting</h3>
 
 <!--
+**BEN HW**: Record and post screencast on <nav><ul><li><a>, removing bullets, and resizing with padding.
+
 Generative loop writing
 Offline sketching
 EXT: Self-paced tutorialing, using the lessons to build prelim pages of your own. That is, once you have the tutorial working, try swapping in your own content for the tutorial's: an about page, an image or two, a linked credits page. And if not today, then Thursday
 
 NEW AFTER 2020fall: Troubleshoot with Ben in a breakout room if your content doesn't work like the tutorial's.
 
-**BEN HW**: Record and post screencast on <nav><ul><li><a>, removing bullets, and resizing with padding.
+
 
 -->
 

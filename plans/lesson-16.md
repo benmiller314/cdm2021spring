@@ -60,8 +60,9 @@ What does that mean??
 
 Per [the tutorial I'm assigning you for homework](https://internetingishard.com/html-and-css/introduction#html-css-and-javascript),
 
-> HTML is for adding meaning to raw content by marking it up.
-CSS is for formatting that marked up content.
+<blockquote class="blockquote">
+    <ul><li>HTML is for adding meaning to raw content by marking it up.</li><li>CSS is for formatting that marked up content.</li></ul>
+</blockquote>
 
 
 In other words:

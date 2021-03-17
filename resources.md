@@ -72,6 +72,8 @@ Table of contents:
 <p>The one catch is that if you're using git-lfs on a forked repo, the extra storage you get counts against the quota of the <em>upstream</em> fork, so if everyone uses it for CDM assignments, eventually I run out of data and *nothing* can be pushed. So at the end of the semester, I'll ask you to re-clone your repo and add a new remote branch that's not on my fork tree. But we'll cross that bridge if/when we come to it!</p>
 
 <p>Oh! And if you discover that you have large files you can't push after they're already in your commit history, you'll need to start managing *those* large files with git-lfs, too. Luckily there's now [a (simple command line) tool to help you do that](https://github.blog/2017-06-27-git-lfs-2-2-0-released/)!</p>
+
+<p>If all else fails, fear not! You can always (1) start an empty new repository on GitHub, (2) point your local repository to that new one by <a href="https://docs.github.com/en/github/using-git/changing-a-remotes-url">changing the remote URL at the command line</a>, and (3) pushing your now-correctly-configured files to the new repository. The new repo should now inherit the entire history of your local one, including all your messages. Just be sure to (4) add a link to the new repository in the README.md file of your old one, so we can find it easily.</p>
 </dd>
 
 <dt><a href="https://education.github.com/git-cheat-sheet-education.pdf">Git Cheat Sheet</a></dt>

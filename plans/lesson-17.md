@@ -126,9 +126,11 @@ With that chosen subject, write again:
 5. I'm going to interrupt you now and ask you to set aside the list, just for now, and ask: **What's the heart of this?** What's the essential component for this cluster of things? What ties them together? <br/><br/>See if you can summon up the whole of this idea, like it's right here in the room with you. Where does it live? Is it above you? Inside you? In the palm of your hand? Just sit with your idea for a moment, feeling where you connect to it.
 
 ## 4. Offline sketching (10 min)
-And now, draw. Given what's essential, given your knowledge of how websites work, and given the principles of designing for attention we learned last unit, **make a few quick sketches of your possible website's landing page.**
+<div class="alert alert-success">
+<p>And now, draw. Given what's essential, given your knowledge of how websites work, and given the principles of designing for attention we learned last unit, <strong>make a few quick sketches of your possible website's landing page.</strong></p>
 
-Consider: How will it look on a phone? On a laptop? What might you add to the layout for a full-sized desktop monitor?
+<p>Consider: How will it look on a phone? On a laptop? What might you add to the layout for a full-sized desktop monitor?</p>
+</div>
 
 Not sure what that should look like? Here are [33 examples](http://designbeep.com/2012/05/17/33-great-examples-of-web-design-sketches/) (but no one is asking you to be as elaborate as the most elaborate of these)
 

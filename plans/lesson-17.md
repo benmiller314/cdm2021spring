@@ -23,6 +23,12 @@ In breakout rooms, work through the following questions, and be ready to discuss
 
 Call me in if you can't come to a resolution! I will share my answer key at the end.
 
+<div class="alert alert-warning">
+To get async credit for this portion of the class, please answer these questions in your own space (i.e. not in the gdoc) and send your answers my way.
+
+You'll also want to do the generative exercise a bit further down!
+</div>
+
 
 ### Organizing files
 
@@ -91,6 +97,10 @@ Let me know if you have any challenges or questions after reading my answer key!
 
 ## 3. Loop writing (10 min) <!-- for a 2:50 start, you have to get here by 3:25, ending by 3:35 -->
 The assignment for Tuesday includes another two chapters in the tutorial, a game to play (or a blog post to read) about advanced CSS selectors... and a short proposal for your website project. In a moment, I'll lead you through a generative writing exercise designed to help you come up with an idea to propose.
+
+<div class="alert alert-warning">
+Asynchronous participants, please work through the questions on your own! You can listen along to the recording, or you can set yourself a 2-minute timer for each question (or 10 minutes for the whole set of five).
+</div>
 
 <div class="alert alert-info">
 If you're feeling stuck during the loop writing, you can turn to one of the <a href="https://github.com/benmiller314/website-portfolio-2021spring#parachute-prompts">parachute prompts</a>.

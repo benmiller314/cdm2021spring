@@ -243,6 +243,7 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 
 <dl>
 <dt><a href="https://internetingishard.com/html-and-css/">Interneting is Hard (but it doesn't have to be)</a></dt>
+<dt><a href="https://web.archive.org/web/20201105195453/https://www.internetingishard.com/html-and-css/">(WebArchive version)</a></dt>
 <dd>Your one-stop shop for learning basic web architecture from the ground up, with clear explanations and cute illustrations. I'll assign chapters from this over several homeworks. </dd>
 
 <dt><a href="http://jgthms.com/web-design-in-4-minutes">Web Design in 4 Minutes</a></dt>
@@ -251,6 +252,8 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 <dt><a href="https://css-tricks.com/how-css-selectors-work/">How CSS Selectors Work (CSS-Tricks)</a></dt>
 <dd><p>This could be a very useful follow-up to the Interneting is Hard tutorial, or perhaps just a handy reference for some of the more common "advanced" CSS selectors. It starts from basic ways of matching style rules to html elements, and then proceeds to discuss what happens when multiple rules apply to the same element – which rule "wins," or supersedes the other. To sum up, it's not simply which one comes last in the \*.css file (though that also matters): in general, the more narrowly defined rule will still override a more broadly defined one. Read on for more details... and if even that doesn't satisfy you, try their deep-dive in <a href="https://css-tricks.com/specifics-on-css-specificity/">Specifics on CSS Specificity</a>.</p>
 <p>Also, it's worth saying that many of my Google searches for solutions to CSS problems lead me to CSS-Tricks, so I figured I'd point it out early and reassure you that it's legit. Some very clear explanations not only of what to do, but why it works – and, often, alternative approaches to the same challenges.</p>
+
+<p>For another one-page roundup of selectors, you might like this <a href="https://gist.github.com/magicznyleszek/809a69dd05e1d5f12d01">CSS Selector Cheat-sheet</a>; many thanks to Thomas Brusilovsky for suggesting this resource!</p>
 </dd>
 
 <dt><a href="https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725">CSS Grid Layout</a> tutorial on Medium</dt>

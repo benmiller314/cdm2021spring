@@ -3,7 +3,7 @@
 
 **Work to have done**:
 
-* As much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/) tutorial as you can – at least parts 1-6 (from "Introduction" through "CSS Selectors")
+* As much of the [Interneting is Hard](https://internetingishard.com/html-and-css/) [(but at least it's WebArchive crawled)](https://web.archive.org/web/20201105195453/https://www.internetingishard.com/html-and-css/) tutorial as you can – at least parts 1-6 (from "Introduction" through "CSS Selectors")
 * More on CSS selectors: the [CSS Diner](https://flukeout.github.io/) game and/or [a CSS-Tricks roundup](https://css-tricks.com/how-css-selectors-work/)
 * A website proposal, posted to the [Issue Queue]({{site.github.issues_url}}/)
 

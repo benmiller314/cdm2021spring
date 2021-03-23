@@ -85,7 +85,7 @@ Chrome and Firefox (especially Firefox) have great built-in developer tools to "
 
 <aside class="alert alert-info">Safari can do this, too, but you'll need to <a href="https://developer.apple.com/library/archive/documentation/NetworkingInternetWeb/Conceptual/Web_Inspector_Tutorial/EnableWebInspector/EnableWebInspector.html">activate it first</a>... and then "show the details sidebar."</aside>
 
-<p>Crucially, you can also <em>add CSS rules</em> and immediately see what effect they would have on the page. (Safari users, note that the button to add a new rule is on the bottom left, not the top right as in the other two browsers.) Color pickers are an especially nice feature – and perhaps the one thing that Chrome's inspector does better than Firefox's at the moment, in that Chrome lets you change from hex color to RGBA or HSL, and directly adjust saturation / luminosity, e.g. to improve contrast.
+<p>Crucially, you can also <em>add CSS rules</em> and immediately see what effect they would have on the page. (Safari users, note that the button to add a new rule is on the bottom left, not the top right as in the other two browsers.) Color pickers are an especially nice feature – and perhaps the one thing that Chrome's inspector does better than Firefox's at the moment, in that Chrome lets you change from hex color to RGBA or HSL, and directly adjust saturation / luminosity, e.g. to improve contrast.</p>
 
 <figure>
 <img src="../assets/img/inspect-element--firefox--skeleton.gif" alt="screencast of the firefox in-browser inspector" />

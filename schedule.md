@@ -202,7 +202,7 @@ For next time:
   * Heads up to fast workers: Float layouts used to be a big deal, but aren't as widely recommended any more. You can probably skip that chapter, at least for now.
 * **Show your work** by pushing your tutorial code to a repository.
   * If it's not working the same as in the tutorial, please do check with me! I'll set aside some breakout group time on Thursday, but feel free to email or use the [issue queue]({{site.github.issues_url}}) in the meantime: see if your question's been answered, and if not, [post a new issue]({{site.github.issues_url}}/new/choose), because you're probably not alone.
-  
+
 <!-- * *Optionally* bring headphones for sonic isolation during studio time -->
 
 
@@ -251,8 +251,9 @@ No homework: Wednesday is a self-care day. That said, if you find CSS Diner rela
 For next time:
 
 * **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet.
-  - As a reminder, you should **write out the exercises in the tutorials** and push them to your repository – maybe in a tutorials subfolder. Once you have them working as presented, feel free to update them to test out ideas for your own site! But do try to confirm you can get them working first. HTML, like all code, is fiddly: punctuation matters for things like close-tags.
+  - As a reminder, you should **write out the exercises in the tutorials** and push them to your repository – probably in the tutorials subfolder. Once you have them working as presented, feel free to update them to test out ideas for your own site! But do try to confirm you can get them working first. HTML, like all code, is fiddly: punctuation (including spaces) matters for things like close-tags and CSS selectors.
 * Separately, also **read** about [Grid Layout](https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725) (and optionally the followup post on [responsive grid](https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f)).
+  - EXT: Want more CSS Grid templates and examples, including CodePens to play with? Try [Grid By Example](https://gridbyexample.com/learn/), which also has video tutorials.
 * **Compose and push** a first website preview: a beginning, focused on content and navigation.
 
 <h3><a href="{{site.github_url}}/plans/lesson-20">Lesson 20, Tuesday 3/30</a> – Web Unit Studio / Layout Q & A</h3>

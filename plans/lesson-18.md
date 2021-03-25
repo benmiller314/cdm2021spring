@@ -103,7 +103,7 @@ Here are some other things to consider as you move forward:
 
 <details><summary>Your homepage should probably be called something like index.html</summary>
 
-I'm going to recommend that everyone use GitHub Pages to publish your sites unless you have a good reason not to. (And you might; but talk to me about it.) In that system, you store your files in a GitHub repository (in a branch called "gh-pages," like this site, or a subdirectory called "docs" – look in your own repos!), and GH knows where to look to find your stuff. _By default, it'll show your README.md file as the home page, unless it finds a file called index.html or index.md_.
+I'm going to recommend that everyone use GitHub Pages to publish your sites unless you have a good reason not to. (And you might; but talk to me about it.) In that system, you store your files in a GitHub repository (in a branch called "gh-pages," like this site, or a subdirectory called "docs" – look in your own repos!), and GH knows where to look to find your stuff. <em>By default, it'll show your README.md file as the home page, unless it finds a file called index.html or index.md</em>.
 
 Therefore, rather than call your landing page myproject.html, landing.html, or home.html, you're better off using the index.html name. You can always change the <code>&lt;title&gt;</code> to give it a more accurate name in the browser tab. : )
 </details>

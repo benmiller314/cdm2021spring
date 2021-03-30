@@ -141,9 +141,9 @@ Take 70 minutes, and subtract however long you just spent reading the advice sec
 <div class="alert alert-warning">
 Don't forget to save periodically as you go:
  <ul>
-   <li>as a project file</li>
+   <li>as files in Atom</li>
    <li>as a git commit, saying what you've just achieved</li>
-   <li>as a screenshot</li>
+   <li>as screenshots of either your workspace or your site-in-progress</li>
  </ul>
 </div>
 

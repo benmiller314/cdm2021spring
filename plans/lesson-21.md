@@ -48,9 +48,9 @@ You're used to this process by now, yes?
 Criteria from previous semesters are posted in our [shared google doc](http://bit.ly/cdm2021spring-notes#heading=h.z8d1igk08a86) as a starting point.
 
 <div class="alert alert-success">
-<p>In breakout rooms, take 10ish minutes to talk amongst yourselves about what's working, what's missing, and what you'd like to move or modify.
+<p>In breakout rooms, take 10ish minutes to talk amongst yourselves about what's working, what's missing, and what you'd like to move or modify.</p>
 
-As you reach consensus, <strong>add comments</strong> or <strong>use the "suggestions" feature</strong> (click the pencil icon in the top right) to propose modifications or additions. Or ask questions, if you have them!
+<p>As you reach consensus, <strong>add comments</strong> or <strong>use the "suggestions" feature</strong> (click the pencil icon in the top right) to propose modifications or additions. Or ask questions, if you have them!</p>
 </div>
 
 Remember that aspirational criteria are not required, but baseline criteria are. Given the goals of the unit, what should we set as our minimum criteria for full credit? What are some ways we might push beyond that minimum – not merely in terms of quantity, but in terms of quality or challenge level? <strong>I really want you to see these aspirational goals as opportunities to stretch yourselves and your skills, not just to do more of the same.</strong> Think about what would be new and potentially exciting – but not required for everyone.

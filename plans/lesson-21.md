@@ -20,11 +20,22 @@ Just a quick note, since I didn't emphasize it last time: **if you haven't yet t
 
 ## 1. Reflective writing (5 min)
 <div class="alert alert-success">
-In your own space – you won't have to share this unless you want to – do a little writing about your website portfolio in progress. What's exciting about it? What's challenging about it? What are you unsure of?
-</div>
+In your own space – you won't have to share this unless you want to – do a little writing about your website portfolio in progress.</div>
+
+ <ul>
+   <li>What's exciting about it?</li>
+   <li>What's challenging about it?</li>
+   <li>What are you unsure of?</li>
+ </ul>
 
 ## 2. Websites we've liked... within reach (5 min)
-Shift now in your writing to think about the websites you navigate every day. **What seems to make them easy to get through, to find what you need? What causes frustration? How do you think its _structure_ might be related to its _audience_?** Jot down some notes.
+Shift now in your writing to think about the websites you navigate every day.
+
+* What seems to make them easy to get through, to find what you need?
+* What causes frustration?
+* How do you think its _structure_ might be related to its _audience_?
+
+Jot down some notes.
 
 ## 3. Gathering criteria (45 min)
 Primed now by that writing and thinking, I'm going to ask you to get in groups and brainstorm in pursuit of baseline and aspirational criteria for this unit.

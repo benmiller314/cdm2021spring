@@ -34,7 +34,7 @@ Remember to *talk to each other about what you value!*
 ### 3a. Review, comment, and suggest (10 min)
 You're used to this process by now, yes?
 
-Criteria from previous semesters are posted in our [shared google doc](http://bit.ly/cdm2021spring-notes) as a starting point.
+Criteria from previous semesters are posted in our [shared google doc](http://bit.ly/cdm2021spring-notes#heading=h.z8d1igk08a86) as a starting point.
 
 <div class="alert alert-success">
 <p>In breakout rooms, take 10ish minutes to talk amongst yourselves about what's working, what's missing, and what you'd like to move or modify.
@@ -74,7 +74,9 @@ Questions your group can't answer? Post them to the google doc, and I'll work on
 
 ## EXT: Group Studio While I Synthesize
 
-<div class="alert alert-success">As always, please set yourself some <a href="http://bit.ly/cdm2021spring-notes">studio goals in the doc</a>; set a timer, leaving the last 5-10 minutes for an exit note; and then write that exit note on what you were able to achieve / what your next steps are, adding it to your initial goals back in the doc.</div>
+As time allows, get to work on achieving baseline or pushing beyond it.
+
+<div class="alert alert-success">As always, please set yourself some <a href="http://bit.ly/cdm2021spring-notes#heading=h.khzy1t6kv8as">studio goals in the doc</a>; set a timer, leaving the last 5-10 minutes for an exit note; and then write that exit note on what you were able to achieve / what your next steps are, adding it to your initial goals back in the doc.</div>
 
 <p class="text-center"><strong>Don't forget to save and commit as you go!</strong></p>
 

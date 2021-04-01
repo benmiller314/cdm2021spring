@@ -19,7 +19,7 @@
 
 In breakout rooms, share and discuss the previews you brought in for today... and talk through the questions and excitements that came up as you did it.
 
-Write down any questions you'd like to bring to me.
+Write down any questions you'd like to bring to me in [the Google doc](http://bit.ly/cdm2021spring-notes)
 
 EXT: I know some people are feeling behind, for various reasons. If you run out of previews to talk through in your group, but still have time left, continue in the tutorial assignments from where you left off – and add in my screencast video on Canvas (see below) after you finish with Flexbox.
 

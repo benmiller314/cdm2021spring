@@ -79,7 +79,7 @@ For a minimum grade of B, all projects for this unit must…
 </details>
 
 <details><summary>Aspirational</summary>
-To target (but not guarantee) a grade above a B, the best projects for this unit may do some (but probably not all!) of the following:
+<p>To target (but not guarantee) a grade above a B, the best projects for this unit may do some (but probably not all!) of the following:</p>
 
 <em>Media Files</em>
 <ul><li>Include playable media: <code>&lt;audio&gt;</code>,  <code>&lt;video&gt;</code>, <code>&lt;iframe&gt;</code>)</li>

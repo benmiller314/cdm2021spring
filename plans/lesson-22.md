@@ -23,7 +23,14 @@
 ## 1. Identify your partners
 As usual, you'll want to click through to the next three people in your row, wrapping around when you hit the end.
 
+<div class="alert alert-info">
+NB: If one of your partners has not yet posted a draft, contact them to ask about it (you can reply to one of my emails), and try (if you can) to loop back later this week: we're all trying to accommodate Flex@Pitt the best we can.
+</div>
 
+* <a href='https://github.com/gregsexauer/website-portfolio-2021spring'>Greg</a>, <a href='https://github.com/cmgo412/website-portfolio-2021spring'>Caela</a>, <a href='https://github.com/TBrusilovsky/website-portfolio-2021spring'>Thomas</a>, <a href='https://github.com/cap-alt-delete/website-portfolio-2021spring'>Carolyn</a>, <a href='https://github.com/boredhero/website-portfolio-2021spring'>Noah</a>
+* <a href='https://github.com/hua-tori/website-portfolio-2021spring'>Tori</a>, <a href='https://github.com/patrickjmeyer/website-portfolio-2021spring'>Patrick</a>, <a href='https://github.com/Gley21/website-portfolio-2021spring'>Garrett</a>, <a href='https://github.com/aer84/website-portfolio-2021spring'>Abby</a>, <a href='https://github.com/gdelallo/website-portfolio-2021spring'>Grace D</a>
+* <a href='https://github.com/gmh32/website-portfolio-2021spring'>Grace H</a>, <a href='https://github.com/annaruz/website-portfolio-2021spring'>Anna</a>, <a href='https://github.com/rmanyeka/website-portfolio-2021spring'>Rutendo</a>, <a href='https://github.com/TrentFoster/website-portfolio-2021spring'>Trent</a>, <a href='https://github.com/jackie216/website-portfolio-2021spring'>Jackie</a>
+* <a href='https://github.com/paytonareed/website-portfolio-2021spring'>Payton</a>, <a href='https://github.com/anatems1/website-portfolio-2021spring'>Mason</a>, <a href='https://github.com/kle39/website-portfolio-2021spring'>Kenzie</a>, <a href='https://github.com/young1m030/website-portfolio-2021spring'>Maggie</a>, <a href='https://github.com/reaial/website-portfolio-2021spring'>Reaia</a>
 
 
 Go ahead and click through to your partners' repos, and **download the zip file** by clicking on the green <img class="d-inline-block" src="../assets/img/github-code-btn.png" alt="code" /> button. It'll be a faster download than cloning, with just the latest snapshot. (But if you want to see revision history, you'll have to do it on the web.)

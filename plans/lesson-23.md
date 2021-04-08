@@ -38,9 +38,9 @@ It should have a brief description of the project, and may I also suggest an act
 
 <details><summary>Level up line breaks into space between paragraphs.</summary>
 
-The <code>&lt;br/&gt;</code> tag is not really for spacing, but rather for creating manual line breaks. Think poetry, or maybe a two-part heading where you want to enforce a particular phrasing (e.g. a line break after a colon). The line break should itself be meaningful.
+<p>The <code>&lt;br/&gt;</code> tag is not really for spacing, but rather for creating manual line breaks. Think poetry, or maybe a two-part heading where you want to enforce a particular phrasing (e.g. a line break after a colon). The line break should itself be meaningful.</p>
 
-So instead of adding a <code>&lt;br/&gt;</code> after your paragraphs, give the paragraphs some <code>margin-bottom</code>; 1em or slightly more (depending on your <code>line-height</code>) should do the trick.
+<p>So instead of adding a <code>&lt;br/&gt;</code> after your paragraphs, give the paragraphs some <code>margin-bottom</code>; 1em or slightly more (depending on your <code>line-height</code>) should do the trick.</p>
 
 <!-- put a gif here of adding and removing margin -->
 </details>

@@ -96,18 +96,18 @@ A title can provide a context, a clue, a genre, a commentary; it can add an extr
 <details>
 <summary>When revising, take the lowest line-count challenge.</summary>
 
-This is primarily a polishing step after all your content and style is pretty much set – but it may also help you clarify what your HTML is really doing, which can in turn make it easier to style.
+<p>This is primarily a polishing step after all your content and style is pretty much set – but it may also help you clarify what your HTML is really doing, which can in turn make it easier to style.</p>
 
-Do your CSS rules repeat each other? Maybe they can be combined. <ul>
+<p>Do your CSS rules repeat each other? Maybe they can be combined. <ul>
   <li>Look for elements that all behave the same way, and give them a shared class.</li>
   <li>Remember that you can apply more than one class to the same html element, so you can make rules for shared attributes in one class and special cases in another.</li>
-</ul>
+</ul></p>
 
-Does your HTML have lots of containers with only one element in them?
+<p>Does your HTML have lots of containers with only one element in them?
 <ul>
   <li>Some containers are important for positioning, e.g. centering with a flexbox.</li>
   <li>Others, though, are unnecessary clutter: if you can "unwrap" the element and apply CSS rules directly to it, with no loss in function, go ahead and unwrap it. You can usually move classes from an outer element straight onto the inner one. See my <a href="https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9171fa85-be27-437d-99b9-acfa00f44a4f">demo video from last week</a> for an example.</li>
-</ul>
+</ul></p>
 </details>
 
 

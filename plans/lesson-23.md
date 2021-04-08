@@ -66,7 +66,7 @@ You can also <a href="https://css-tricks.com/almanac/properties/l/list-style">ch
 
 <p>If you're using resources you didn't make yourself, be sure to include enough information to recover where it came from: a direct link to the image and to the specific license (if there is one) is ideal. Creative Commons sources often provide that html for you!</p>
 
-<p>Where to put this information? Ideally, somewhere small near the image itself. (There's a semantic html way of doing this with &lt;figure&gt; and &lt;figcaption&gt;, which you may remember from <a href="https://www.internetingishard.com/html-and-css/semantic-html/#figures-and-captions">the Semantic HTML</a> section of the tutorial. See also <a href="https://www.scottohara.me/blog/2019/01/21/how-do-you-figure.html">this extended discussion of figures, figcaptions, and alt text</a>.)</p>
+<p>Where to put this information? Ideally, somewhere small near the image itself. (There's a semantic html way of doing this with <code>&lt;figure&gt;</code> and <figure>&lt;figcaption&gt;</figure>, which you may remember from <a href="https://www.internetingishard.com/html-and-css/semantic-html/#figures-and-captions">the Semantic HTML</a> section of the tutorial. See also <a href="https://www.scottohara.me/blog/2019/01/21/how-do-you-figure.html">this extended discussion of figures, figcaptions, and alt text</a>.)</p>
 
 <p>Alternately, you can have a rights page somewhere, or use the site footer – or have a live hyperlink from your site to an external credits.md file in your repo.</p>
 

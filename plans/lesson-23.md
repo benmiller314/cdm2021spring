@@ -96,7 +96,7 @@ A title can provide a context, a clue, a genre, a commentary; it can add an extr
 <details>
 <summary>When revising, take the lowest line-count challenge.</summary>
 
-This is primarily a polish step after all your content and style is pretty much set – but it may also help you clarify what your HTML is really doing, which can in turn make it easier to style.
+This is primarily a polishing step after all your content and style is pretty much set – but it may also help you clarify what your HTML is really doing, which can in turn make it easier to style.
 
 Do your CSS rules repeat each other? Maybe they can be combined. <ul>
   <li>Look for elements that all behave the same way, and give them a shared class.</li>

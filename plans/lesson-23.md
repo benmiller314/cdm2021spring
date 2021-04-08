@@ -115,7 +115,8 @@ A title can provide a context, a clue, a genre, a commentary; it can add an extr
 
 As you finish taking in the advice of your peers (and going over my suggestions above), I'd like to know **what questions you have that I might be able to help with** – especially if it's about something you've seen in assigned readings or revision suggestions, but you're not sure how to implement.
 
-Head into [the google doc](http://bit.ly/cdm2021spring-notes) and write down what you're thinking about. It can be anonymous!
+<div class="alert alert-success">
+Head into <a href="http://bit.ly/cdm2021spring-notes">the google doc</a> and write down what you're thinking about. It can be anonymous!</div>
 
 I'll work through these in the Q&A room, and record my responses when they're ready, to post on Canvas. But if you're posting a question you'd like direct help with, please come on in! I'll start with those live questions.
 

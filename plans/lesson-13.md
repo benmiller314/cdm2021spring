@@ -93,7 +93,7 @@ To target (but not guarantee) a grade above a B, the best projects for this unit
 
 ### Detailed instructions for workshop-at-a-distance
 
-1. Go to your first partner's repo on GitHub, and use the green "Code" button. If you have a fast connection and lots of disk space, you can clone (e.g. with the "Open with GitHub Desktop" option); otherwise, you might be better off using the **Download ZIP** option. <figure><img src="../assets/img/github--clone-code-zip.png" alt="Code button to clone repo; also includes the URL to use with the command line." /></figure>
+1. Go to your first partner's repo on GitHub, and use the green "Code" button. If you have a fast connection and lots of disk space, you can clone (e.g. with the "Open with GitHub Desktop" option); otherwise, you might be better off using the **Download ZIP** option. <figure role="figure"><img src="../assets/img/github--clone-code-zip.png" alt="Code button to clone repo; also includes the URL to use with the command line." /></figure>
   - should be faster than cloning, because it leaves out the history of changes (which you can still find on GitHub)
   - shouldn't cause conflicts with your own repository
   - still, you may want to add your partner's name to the file/folder's name, just to be safe
@@ -109,7 +109,7 @@ To target (but not guarantee) a grade above a B, the best projects for this unit
 4. Finally, make sure you **post** all these comments – in language you'd be comfortable sharing publicly – on the latest commit on the project's GitHub website. Here's how and where to leave comments on GitHub: Just
   - click through to the history of commits (the clock page);
   - click on the _commit hash_, the set of random-seeming numbers and letters almost at the end of the top row (i.e., for the most recent commit); and
-  - scroll to the bottom of the _diff view_ that appears. You'll see a comment box there: <figure><img src="../assets/img/github--comment-on-commit.gif" alt="screencast of the three steps just described" title="GIF made with LICEcap: https://www.cockos.com/licecap/" /></figure>
+  - scroll to the bottom of the _diff view_ that appears. You'll see a comment box there: <figure role="figure"><img src="../assets/img/github--comment-on-commit.gif" alt="screencast of the three steps just described" title="GIF made with LICEcap: https://www.cockos.com/licecap/" /></figure>
 
 5. Repeat the steps above for your next two partners' repos. On subsequent loops, note that **after** viewing the project first, you may also want to read and/or refer to the previous comments.
 

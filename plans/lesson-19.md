@@ -37,7 +37,7 @@ To activate GH Pages,
 
 And that's it! The settings should now show you the URL where your rendered HTML will appear. If it doesn't, just wait and/or try again; sometimes it takes a minute or two to refresh.
 
-<figure><figcaption>Here’s a visual representation of those instructions.</figcaption> <img src="../assets/img/github--activate-gh-pages.gif" alt="screencast enacting the ordered list above">.</figure>
+<figure role="figure"><figcaption>Here’s a visual representation of those instructions.</figcaption> <img src="../assets/img/github--activate-gh-pages.gif" alt="screencast enacting the ordered list above">.</figure>
 
 ### Tips and tricks
 <div class="alert alert-warning">

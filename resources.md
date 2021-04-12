@@ -325,10 +325,12 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 </dt></dt>
 </dl>
 
+<!-- Somewhere in here put https://www.scottohara.me/blog/2019/01/21/how-do-you-figure.html, which is all about figure, figcaption, and accessibility. -->
+
 
 <!-- A way to embed working forms on a static GH Pages site? Need to verify: https://medium.com/@asjas/using-formspree-io-on-your-github-pages-a60c290d1ee -->
 
-<!-- Add section on text editors? i.e atom.io, brackets.io, etc?-->
+<!-- Add section on other text editors besides atom? e.g. brackets.io, notebook++, VSstudio,  etc?-->
 
 
 

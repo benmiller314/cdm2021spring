@@ -28,7 +28,7 @@ When you've done that (or after about 5 minutes), please:
 3. When you've finished both of these tasks, use the "raise hand" button on Zoom to let me know you're ready to move to the next step. You'll find it on the "Participants" window.
 
 <details><summary>Not sure where to find the Participants window? Click here to expand instructions.</summary>
-<figure>
+<figure role="figure">
 First, look on the bottom of your screen: Participants is probably near the green Share Screen button.
 
 <img src="../assets/img/zoom--functions-bar-participants-2--bilkent-edu-tr.png" alt="main Zoom menu, with buttons for Invite, Participants, Share Screen, Chat, Record, and Reactions" />

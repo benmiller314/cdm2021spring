@@ -81,12 +81,12 @@ Any surprises there, before we move on?
 
 ### Detailed instructions for workshop-at-a-distance
 
-1. Go to your first partner's repo on GitHub, and use the green "Code" button. If you have a fast connection and lots of disk space, you can clone (e.g. with the "Open with GitHub Desktop" option); otherwise, you might be better off using the **Download ZIP** option. <figure><img src="../assets/img/github--clone-code-zip.png" alt="Code button to clone repo; also includes the URL to use with the command line." /></figure>
-    - In order to avoid conflicts with your own repo, you'll want to **add your partner's name to the name of the Local Folder,** so it's not the same as yours.  <figure><img src="../assets/img/github-desktop--directory-not-empty.png" alt="if you get an error, just change the folder name on the second line (local)" /></figure>
+1. Go to your first partner's repo on GitHub, and use the green "Code" button. If you have a fast connection and lots of disk space, you can clone (e.g. with the "Open with GitHub Desktop" option); otherwise, you might be better off using the **Download ZIP** option. <figure role="figure"><img src="../assets/img/github--clone-code-zip.png" alt="Code button to clone repo; also includes the URL to use with the command line." /></figure>
+    - In order to avoid conflicts with your own repo, you'll want to **add your partner's name to the name of the Local Folder,** so it's not the same as yours.  <figure role="figure"><img src="../assets/img/github-desktop--directory-not-empty.png" alt="if you get an error, just change the folder name on the second line (local)" /></figure>
 
-2. Open the folder. If you cloned with GitHub Desktop, choose View in Finder (Mac) / View in Explorer (PC) to find the files you just downloaded, and open them in Audacity.<figure><img src="../assets/img/github-desktop--show-in-finder.png" alt="GitHub Desktop with Show in Finder button highlighted in main area and Repository menu"/></figure>
+2. Open the folder. If you cloned with GitHub Desktop, choose View in Finder (Mac) / View in Explorer (PC) to find the files you just downloaded, and open them in Audacity.<figure role="figure"><img src="../assets/img/github-desktop--show-in-finder.png" alt="GitHub Desktop with Show in Finder button highlighted in main area and Repository menu"/></figure>
 
-3. Optionally, zoom out to see the whole Audacity project with View > Track Size > Fit to Height / Fit to Width.  <figure><img src="../assets/img/audacity--fit-to-height-and-width.png" alt="Audacity's File menu, with Track Size options highlighted" /></figure> Note that you can later use the same menu to Expand All Tracks; this will let you see the settings for pan, gain, etc.
+3. Optionally, zoom out to see the whole Audacity project with View > Track Size > Fit to Height / Fit to Width.  <figure role="figure"><img src="../assets/img/audacity--fit-to-height-and-width.png" alt="Audacity's File menu, with Track Size options highlighted" /></figure> Note that you can later use the same menu to Expand All Tracks; this will let you see the settings for pan, gain, etc.
 
 4. Here's where the cycle really starts:
   * **describe** the soundscape and narrative you hear
@@ -96,7 +96,7 @@ Any surprises there, before we move on?
 5. Finally, make sure you **post** all these comments – in language you'd be comfortable sharing publicly – on the latest commit on the project's GitHub website. Here's how and where to leave comments on GitHub: Just
   * click through to the history of commits (the clock page);
   * click on the _commit hash_, the set of random-seeming numbers and letters almost at the end of the top row (i.e., for the most recent commit); and
-  * scroll to the bottom of the _diff view_ that appears. You'll see a comment box there: <figure><img src="../assets/img/github--comment-on-commit.gif" alt="screencast of the three steps just described"/><figcaption>You can leave comments on a particular commit using the GitHub website. <em>GIF made with <a href="https://www.cockos.com/licecap/">LICEcap</a></em>.</figcaption></figure>
+  * scroll to the bottom of the _diff view_ that appears. You'll see a comment box there: <figure role="figure"><img src="../assets/img/github--comment-on-commit.gif" alt="screencast of the three steps just described"/><figcaption>You can leave comments on a particular commit using the GitHub website. <em>GIF made with <a href="https://www.cockos.com/licecap/">LICEcap</a></em>.</figcaption></figure>
 
 6. Repeat the steps above for your next two partners' repos. On subsequent loops, note that **after** viewing/listening to the project first, you may also want to read and/or refer to the previous comments.
 

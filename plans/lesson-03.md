@@ -49,7 +49,7 @@ Much as a repository is just another name for a file folder you're tracking, the
 If you're not sure how to open a command line, try <a href="https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html">these instructions</a>.
 
 
-<figure>
+<figure role="figure">
 <img alt="terminal window showing git status command" src="../assets/img/terminal-git-status.png" />
 <figcaption>Above, a terminal window. In the top line, the text to the left of the dollar sign ($) is a "prompt," showing where you are and who you're logged in as; text to the right are commands entered. Here, <code>git status</code> yields information about the repository's state (what's new, modified, or deleted since the last commit) and gives tips about how to proceed (last line before the return of the prompt).
 </figcaption>
@@ -206,7 +206,7 @@ If you've downloaded [GitHub Desktop](https://desktop.github.com), you can use a
 
 <!-- Ben quickly demos -->
 
-<figure>
+<figure role="figure">
 <img alt="github desktop shows status and diff view by default" src="../assets/img/github-desktop-status.png">
 <figcaption>Above, Github Desktop. Checking the boxes at the left is akin to <code>git add</code>; uncheck to unstage individual files, as they'll all be selected by default. Commit messages are entered at the bottom left. A button to push is part of the toolbar at the top right.
 </figcaption>

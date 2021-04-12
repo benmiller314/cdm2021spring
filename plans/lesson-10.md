@@ -47,13 +47,13 @@ If your group feels finished and others are still working, share the images you 
 If we all finish filling out the google doc with time to spare (by 3:05, say), I'd like to look at two examples that came in on the forum.
 
 <details><summary>Example 1</summary>
-<figure><img src="https://user-images.githubusercontent.com/40212476/94054374-9471ae80-fda9-11ea-9619-9b6ebb65744e.png" alt="The plastic pandemic is only getting worse during COVID-19. Two goldfish swim toward each other, one stuck in a latex glove, the other in the strap of a disposable mask." />
+<figure role="figure"><img src="https://user-images.githubusercontent.com/40212476/94054374-9471ae80-fda9-11ea-9619-9b6ebb65744e.png" alt="The plastic pandemic is only getting worse during COVID-19. Two goldfish swim toward each other, one stuck in a latex glove, the other in the strap of a disposable mask." />
 <figcaption>Cartoon by Alireza Pakdel; <a href="https://github.com/benmiller314/cdm2021spring/issues/7#issuecomment-697856654">posted by AlexaSpaventa</a></figcaption>
 </figure>
 </details>
 
 <details><summary>Example 2</summary>
-<figure><img src="https://user-images.githubusercontent.com/70040063/94060189-845dcd00-fdb1-11ea-99c6-5628a91b5de6.jpg" alt="Box of Wheat Thins: 'Check out sundried tomato and its sidekick basil - here to save your taste buds with a tantalizing duo of delicious flavors.' Text spans most of the box, except where chips fill the bottom right quadrant." />
+<figure role="figure"><img src="https://user-images.githubusercontent.com/70040063/94060189-845dcd00-fdb1-11ea-99c6-5628a91b5de6.jpg" alt="Box of Wheat Thins: 'Check out sundried tomato and its sidekick basil - here to save your taste buds with a tantalizing duo of delicious flavors.' Text spans most of the box, except where chips fill the bottom right quadrant." />
 <figcaption>Side of Sundried Tomato Wheat Thins box; <a href="https://github.com/benmiller314/cdm2021spring/issues/7#issuecomment-697928818">posted by Maials268</a></figcaption>
 </figure>
 </details>
@@ -107,7 +107,7 @@ For those who aren't sure where to start, you can follow along with me as I do s
 
 Here's what I'm using, and you can find it already in your repo (under "in-class exercise"):
 
-<figure>
+<figure role="figure">
 <img src="../assets/img/beverly-and-pack--fly-me-to-the-moon.jpg" alt="A striped hot air balloon floating in a blue sky, darker toward the top of the image. A small, nearly full moon is visible; the ground is not." />
 
 <figcaption>"Fly Me to the Moon, by Way of a Hot Air Balloon" (2009) by <a href="https://www.flickr.com/photos/walkadog/">Beverly & Pack</a>, <a href="https://www.flickr.com/photos/walkadog/3897126692/">on Flickr</a>. <a href="https://creativecommons.org/licenses/by/2.0/">CC-BY-2.0</a>.

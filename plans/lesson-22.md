@@ -36,7 +36,7 @@ NB: If one of your partners has not yet posted a draft, contact them to ask abou
 Go ahead and click through to your partners' repos, and **download the zip file** by clicking on the green <img class="d-inline-block" src="../assets/img/github-code-btn.png" alt="code" /> button. It'll be a faster download than cloning, with just the latest snapshot. (But if you want to see revision history, you'll have to do it on the web.)
 
 <details><summary>Show me</summary>
-<figure><img src="../assets/img/github--clone-code-zip.png" alt="Code button to clone repo; also includes the URL to use with the command line." /></figure>
+<figure role="figure"><img src="../assets/img/github--clone-code-zip.png" alt="Code button to clone repo; also includes the URL to use with the command line." /></figure>
 </details>
 
 <div class="alert alert-info">
@@ -141,7 +141,7 @@ As a reminder, here's how and where to leave comments on GitHub: Just...
 
 * click through to the history of commits (the clock button);
 * click on the _commit hash_, the set of random-seeming numbers and letters almost at the end of the top row (i.e., for the most recent commit); and
-* scroll to the bottom of the _diff view_ that appears. You'll see a comment box there: <figure><img src="../assets/img/github--comment-on-commit.gif" alt="screencast of the three steps just described"/></figure>
+* scroll to the bottom of the _diff view_ that appears. You'll see a comment box there: <figure role="figure"><img src="../assets/img/github--comment-on-commit.gif" alt="screencast of the three steps just described"/></figure>
 
 
 ## 3. Repeat (and reflect)

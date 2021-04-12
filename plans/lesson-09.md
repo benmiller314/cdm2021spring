@@ -38,7 +38,7 @@ ALT: If you're participating asynchronously, please add comments to the notes in
 ## 2. Brief, brief intro to GIMP
 For the next unit, you'll be working on directing attention through visual means, and the software I'm asking you to use is [GIMP](https://www.gimp.org/downloads/): the <span title="GNU, in turn, stands for _GNU's Not Unix._ Yyup.">GNU</span> Image Manipulation Program.
 
-<figure>
+<figure role="figure">
 <a href="https://www.gimp.org"><img src="../assets/img/gimp-header.png" alt="over background of misty rocks in shades of purple, text reads 'GIMP: Gnu Image Manipulation Program'"></a>
 <figcaption>Header image from GIMP website. Click to visit www.gimp.org.</figcaption>
 </figure>
@@ -46,7 +46,7 @@ For the next unit, you'll be working on directing attention through visual means
 I want to do just a quick preview today, while we're thinking about the shape of tools – and then we'll focus on what I'm asking you to do with them.
 
 Here's a project from last year that I was planning to nominate for the Digital Media Showcase, before COVID canceled it:
-<figure>
+<figure role="figure">
 <img src="../assets/img/ktdemay--future.png" alt="Philadelphia skyline behind cutouts of four athletes, in uniform for Philly basketball, baseball, hockey, and football teams. Text reads, 'The future is HERE'; team logos fill the last four letters." longdesc="#text-from-showcase-image" />
 <figcaption>"The Future of Sports." Kevin DeMaioribus, 2020.</figcaption>
 <div id="text-from-showcase-image" class="sr-only">

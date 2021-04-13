@@ -167,7 +167,7 @@ Now that you have a sense of what's possible, in general, it's time for you to w
     <figcaption>For an audio version of the text-based writing prompts that follow, you can use this media player:</figcaption>
     <audio
         controls
-        src="{{site.course.base_path}}assets/sound/ben-reads-perl-guidelines--final-unit.mp3">
+        src="../assets/sound/ben-reads-perl-guidelines--final-unit.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -234,7 +234,7 @@ EXT: If you have time now, you can get started on implementing your plan. We'll 
 
 * *Preparing one final project or revision:*
   * _By the end of next class_, you should decide (together, if working on a team) what would constitute a minimum deliverable project for the consolidation/integration unit, and what series of stretch goals you'll try for beyond that minimum.
-  * When you're ready, make a new repository (GH, Box, or Drive)<a id="ftnref2" href="#ftn2">[2]</a> that all members of your team can [edit](https://github.com/benmiller314/cdm-digital-affordances#i-make-a-copy-you-can-edit), containing:
+  * When you're ready, make a new repository (GH, Box, or Drive)<a id="ftnref2" href="#ftn2" class="ftn">[2]</a> that all members of your team can [edit](https://github.com/benmiller314/cdm-digital-affordances#i-make-a-copy-you-can-edit), containing:
     - a brief overview of your project  goals
     - a task list for your project
     - proposed roles for your team members, if you have a team of more than one

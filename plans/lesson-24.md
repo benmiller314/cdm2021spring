@@ -8,7 +8,7 @@
 **Plan for the Day**:
 
 1. Creative writing as a tool for critical thinking (15 min)<!-- metaphors for learning -->
-2. Consolidation Unit goals, and what that might look like (10-15 min)
+2. Final Portfolio Preview and Consolidation Unit Goals (10-15 min)
 3. Generative Writing and Self-Assessment (15 min) <!-- and self-assessment -->
 4. Studio time: website or a new proposal (30 min)
 
@@ -45,9 +45,30 @@ EXT: If you're waiting for the rest of us, consider: what personal skillsets do 
 
 Any volunteers? Any insights? Any questions?
 
-## 2. Consolidation Unit Goals (5-10 min)
+## 2. Final Portfolio Preview and Consolidation Unit Goals (10-15 min)
 
-The final portfolio for the course is due in just two weeks (¡...!), on Tuesday, April 27. As I said in the [schedule](../schedule),
+The final portfolio for the course is due in just two weeks (¡...!), on Tuesday, April 27. (That's our exam slot, which nominally runs from 12pm-1:50pm.)
+
+### Portfolio contents
+
+As we have for each individual unit, for the final portfolio I’m asking you to write reflectively about the course and your work in it, crystalizing what you’ve learned – and how you will go on learning – about composing digital media.
+
+<div class="alert alert-white">
+The final portfolio itself will consist of a single post on the <a href="{{site.github.issues_url}}">issue queue</a> (thread coming soon), containing:
+
+<ul>
+  <li>a <strong>prose reflection</strong> of at least 800-1200 words (1200-1800 recommended), reflecting on the course and framing the portfolio’s contents in terms of your learning and goals;</li>
+  <li><strong>representative thumbnails, hyperlinked to final rendered versions</strong> of your four unit projects, i.e. Soundscape Narrative (.mp3), Visual Argument (.png), Website (live url or index.html), and Consolidation (tbd);</li>
+  <li><strong>links to your repositories</strong> (on either GitHub or Box) for each of those pieces; and</li>
+  <li><strong>a thumbnail image of at least one specific prior draft, hyperlinked to that draft's commit in the revision history</strong>, allowing you to talk about your revision skills.</li>
+</ul>
+</div>
+
+As with previous reflections, I encourage you to include these screenshots and thumbnails wherever they make the most sense, rather than feeling like they need to be segregated from the rest of your thoughts.
+
+### Consolidation / integration unit
+
+Rather than draw out your reflection for as long as possible, I'm hoping you'll be able to use these last two weeks to help digest and apply what you've learned over the last 12 weeks. As I put it in the [schedule](../schedule),
 
 <blockquote>In this final unit I’ll ask you to build on what you’ve already made: <strong>a revision, an extension, or a combination,</strong> of the modes and media you used in earlier units.</blockquote>
 
@@ -158,7 +179,9 @@ If this sounds intriguing, I encourage you to look at the <a href="../resources#
 </details>
 -->
 
-## Generative writing
+##
+
+### Generative writing
 Now that you have a sense of what's possible, in general, it's time for you to write your way into a sense of what's drawing you, in particular. *(This exercise adapted from Sondra Perl's [Guidelines for Composing](http://bit.ly/perlfeltsense))*  <!-- Record this in Audacity?? -->
 
 <div class="alert alert-warning">
@@ -196,12 +219,14 @@ With that chosen subject, write again:
 
 See if you can summon up the whole of this idea, like it's right here in the room with you. Where does it live? Is it above you? Inside you? In the palm of your hand? Just sit with your idea for a moment, feeling where you connect to it.
 
-## And now, plan.
+## And now, studio time.
 <div class="alert alert-success">
-A proposal / plan for your consolidation unit is due by the end of Thursday's class. If you're working in a group, one proposal per group is fine (but do say who the group members are... and, ideally, how you'd like to divide up the work.)
+<p>A proposal / plan for your consolidation unit is due by the end of Thursday's class. If you're working in a group, one proposal per group is fine (but do say who the group members are... and, ideally, how you'd like to divide up the work.) See below for some questions to think through.</p>
+
+<p>That said, if you're still finalizing your website, you can use this time to do that work – and to ask questions, while I'm available to help. Use the shared doc to state your goals for the working session, and come back to add an exit note at 4:00, as usual.</p>
 </div>
 
-**Take 10-15 minutes now to get started on that process**. To allow for possible group formation, I'd like you to take notes in the [shared google doc](http://bit.ly/cdm2021spring-notes). We can also entertain some concept pitches out loud next class, if you want to feel out possible partners or talk through questions about scope, etc.
+**If you're planning for the consolidation/integration project, I suggest you take 10-15 minutes now to get started on that process**. To allow for possible group formation, I'd like you to take notes in the [shared google doc](http://bit.ly/cdm2021spring-notes). In Thursday's class we can also entertain some concept pitches out loud, if you want to feel out possible partners or talk through questions about scope, etc.
 
 <div class="alert alert-warning">
 Asynchronous folks, take notes using whatever medium feels appropriate to your project: do you want to sketch a drawing on paper? Record yourself talking, either <a href="https://thewirecutter.com/reviews/the-best-voice-recorder/#the-best-smartphone-apps-for-occasional-recording">on a phone</a> or in Audacity? Type it out? Go with what makes sense.</div>

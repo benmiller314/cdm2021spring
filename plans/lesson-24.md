@@ -179,10 +179,20 @@ If this sounds intriguing, I encourage you to look at the <a href="../resources#
 </details>
 -->
 
-##
+## And now, studio time.
+<div class="alert alert-success">
+<p><strong>A proposal / plan for your consolidation unit is due by the end of Thursday's class.</strong> If you're working in a group, one proposal per group is fine (but do say who the group members are... and, ideally, how you'd like to divide up the work.) See below for some questions to think through.</p>
+
+<p>That said, if you're still finalizing your website, you can use this time to do that work – and to ask questions, while I'm available to help.</p>
+</div>
+
+Use the [shared google doc](http://bit.ly/cdm2021spring-notes) to state your goals for the working session, and come back to add an exit note at 4:00, as usual.
 
 ### Generative writing
-Now that you have a sense of what's possible, in general, it's time for you to write your way into a sense of what's drawing you, in particular. *(This exercise adapted from Sondra Perl's [Guidelines for Composing](http://bit.ly/perlfeltsense))*  <!-- Record this in Audacity?? -->
+
+If you're planning for the consolidation/integration project, I suggest you **start by working through the prompts below.** Use my recording to async this process; it'll take about 15 minutes.
+
+*(This exercise adapted from Sondra Perl's [Guidelines for Composing](http://bit.ly/perlfeltsense))*  <!-- Record this in Audacity?? -->
 
 <div class="alert alert-warning">
 
@@ -219,19 +229,12 @@ With that chosen subject, write again:
 
 See if you can summon up the whole of this idea, like it's right here in the room with you. Where does it live? Is it above you? Inside you? In the palm of your hand? Just sit with your idea for a moment, feeling where you connect to it.
 
-## And now, studio time.
-<div class="alert alert-success">
-<p>A proposal / plan for your consolidation unit is due by the end of Thursday's class. If you're working in a group, one proposal per group is fine (but do say who the group members are... and, ideally, how you'd like to divide up the work.) See below for some questions to think through.</p>
+### From processing to proposing
 
-<p>That said, if you're still finalizing your website, you can use this time to do that work – and to ask questions, while I'm available to help. Use the shared doc to state your goals for the working session, and come back to add an exit note at 4:00, as usual.</p>
-</div>
+Now that you've spent some time discovering your thoughts for yourself, it's time to share them with others – and, possibly, to recruit some likeminded co-travelers.
 
-**If you're planning for the consolidation/integration project, I suggest you take 10-15 minutes now to get started on that process**. To allow for possible group formation, I'd like you to take notes in the [shared google doc](http://bit.ly/cdm2021spring-notes). In Thursday's class we can also entertain some concept pitches out loud, if you want to feel out possible partners or talk through questions about scope, etc.
+Taking public notes now in the [google doc](http://bit.ly/cdm2021spring-notes), **work your way toward developing a task list for your project**:
 
-<div class="alert alert-warning">
-Asynchronous folks, take notes using whatever medium feels appropriate to your project: do you want to sketch a drawing on paper? Record yourself talking, either <a href="https://thewirecutter.com/reviews/the-best-voice-recorder/#the-best-smartphone-apps-for-occasional-recording">on a phone</a> or in Audacity? Type it out? Go with what makes sense.</div>
-
-If you can, **work your way toward developing a task list for your project**:
 * What are the parts of the project?
 * What assets will you need to find?
 * What do you already know how to do, and what will you need to learn?
@@ -242,6 +245,11 @@ If you'd like me to set up breakout rooms to talk as a group, let me know! I'm h
 </div>
 
 EXT: If you have time now, you can get started on implementing your plan. We'll have mostly studio time for the next three classes. (Next Tuesday, if possible, we'll try to gather some shared baseline criteria toward achieving the unit goals that might work for all the projects. So aim to have started *something* by then.)
+
+
+## Exit notes
+
+By the time 5 minutes remain in class, please come back to the plan you wrote at the beginning of studio time and update it with your progress and/or plans for next steps.
 
 
 # Homework for next time

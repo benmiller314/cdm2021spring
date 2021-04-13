@@ -3,7 +3,7 @@
 
 <div class="footnote-block">with a hat tip to <a href="https://en.wikipedia.org/wiki/Introduction_to_Finality">Community</a></div>
 
-**Work to have done**: Submit final-for-now website, with source files, and [reflection]({{site.github.issues_url}}) (though I know some people are planning for a Thursday submission, and that's also okay)
+**Work to have done**: Submit final-for-now website, with source files, and [reflection]({{site.github.issues_url}}) (turning in by midnight is also okay)
 
 **Plan for the Day**:
 
@@ -23,8 +23,8 @@ To wit:
 
 ### Generate comparisons (3-5 min)
 <div class="alert alert-success">
-   <ol>
-      <li><strong>What was it <em>like</em> to compose a website?</strong> To what other activities might you compare it? <ul><li>For example, was it like getting butterflies to fly in formation? (That metaphor is Betsy Sargent's, I can't take credit for it.) Was it like writing on loose paper with a pen that's chained in a dark room? Like singing and humming at the same time?</li></ul> Let your mind wander for a minute, and see what comes to mind when you start off thinking about the <em>process</em> of working with html, css, etc.</li>
+   <ol class="spaced">
+      <li><strong>What was it <em>like</em> to compose a website?</strong> To what other activities might you compare it? <ul class="spaced"><li>For example, was it like getting butterflies to fly in formation? (That metaphor is Betsy Sargent's, I can't take credit for it.) Was it like writing on loose paper with a pen that's chained in a dark room? Like singing and humming at the same time?</li></ul> Let your mind wander for a minute, and see what comes to mind when you start off thinking about the <em>process</em> of working with html, css, etc.</li>
       <li>Would you use the same metaphor for the other kinds of digital composing you've used this semester? If not, what other metaphor would you propose?</li>
    </ol>
 </div>
@@ -33,7 +33,9 @@ Take 3-5 minutes to think in writing through the questions above. Then I'm going
 
 ### Use comparisons as leverage (5 min)
 
+<div class="alert alert-success">
 <ol start="3"><li><em>Within the metaphors</em> you've come up with, what strategies would help you continue improving? What strategies might that suggest in real life, i.e. outside of the metaphor?</li></ol>
+</div>
 
 I won't collect this, but I will ask for some volunteers to share when we get back from groups... and I suggest that you return to these when writing your end-of-semester reflection.
 
@@ -104,12 +106,12 @@ On the most straightforward level, this could literally be a **revision of one o
 
 Another, more ambitious option would be to make a **_second_ project in the vein of one you've already done**: another sound-editing project, another visual argument, another website. You'll have less time than you did originally, but you should also be higher on the learning curve. In this same vein, you could try an alternate program for the same genres: e.g. AdobeSuite parallels like Audition (for Audacity) and Photoshop (for GIMP) – or vice versa, if you started with Adobe. See what happens when you dive in again, and reflect on the differences!
 
-A third, also aspirational, option is to build a **new project that builds on what you know to make something different**: e.g. you could try or next-level tools like [Inkscape](https://www.youtube.com/watch?v=pa6a7oz7vEE) for vector graphics (the Adobe parallel is Illustrator) or Ableton for music mixing (there's a [free trial](https://www.ableton.com/en/trial/)); or try for one of the ideas you'd already [proposed on the Issue Queue]({{site.github.issues_url}}?q=is%3Aissue+is%3Aopen+label%3A%22paying+forward%22), like a comic, a zine, a narrative with audio and image (you might look into a id="ftnref1" href="#ftn1">Twine</a>), or a flipbook-style animation, any of which might be a collaboration that represents all its members in its pages.
+A third, also aspirational, option is to build a **new project that builds on what you know to make something different**: e.g. you could try or next-level tools like [Inkscape](https://www.youtube.com/watch?v=pa6a7oz7vEE) for vector graphics (the Adobe parallel is Illustrator) or Ableton for music mixing (there's a [free trial](https://www.ableton.com/en/trial/)); or try for one of the ideas you'd already [proposed on the Issue Queue]({{site.github.issues_url}}?q=is%3Aissue+is%3Aopen+label%3A%22paying+forward%22), like a comic, a zine, a narrative with audio and image (you might look into Twine<a id="ftnref1" href="#ftn1" class="ftnref">[1]</a>), or a flipbook-style animation, any of which might be a collaboration that represents all its members in its pages.
 
 <div class="alert alert-info">
-Note that while I'm not requiring you to work in groups, I'm not requiring you to work solo: if you have a team that can collaborate effectively in online formats (via Zoom, Discord, Slack, what-have-you), you're welcome to go for it!
+<p>Note that while I'm not requiring you to work in groups, I'm not requiring you to work solo: if you have a team that can collaborate effectively in online formats (via Zoom, Discord, Slack, what-have-you), you're welcome to go for it!</p>
 
-If you are thinking of going the group route, let me know, so I can give advice re: team roles and workflows for shared repositories. (You may also want to read [this excerpt from _Writer/Designer_](https://pitt.box.com/s/96l347yyrx2e69lkx635bl0jac4beaye), on more general strategies for communication for cooperation during collaboration. Some good information!)
+<p>If you are thinking of going the group route, let me know, so I can give advice re: team roles and workflows for shared repositories. (You may also want to read <a href="https://pitt.box.com/s/96l347yyrx2e69lkx635bl0jac4beaye">this excerpt from <em>Writer/Designer</em></a>, on more general strategies for communication for cooperation during collaboration. Some good information!)</p>
 </div>
 
 <!--
@@ -165,7 +167,7 @@ Now that you have a sense of what's possible, in general, it's time for you to w
     <figcaption>For an audio version of the text-based writing prompts that follow, you can use this media player:</figcaption>
     <audio
         controls
-        src="{{site.course.base_path}}/assets/sound/ben-reads-perl-guidelines--final-unit.mp3">
+        src="{{site.course.base_path}}assets/sound/ben-reads-perl-guidelines--final-unit.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -222,7 +224,7 @@ EXT: If you have time now, you can get started on implementing your plan. We'll 
 <div class="alert alert-info">
 <p><strong>If you haven't yet finished your website project, start there.</strong> You could even save the Ford reading for the weekend, in that case.</p>
 
-<p>The project proposal would be great to have in place by next class, so you can make the most of studio time, but I can be flexible through the end of this week – especially if you're still waist-deep in the website and need a minute to finish up and get your bearings again.</p>
+<p>The project proposal would be great to have in place by next class, so you can make the most of studio time, but we can be flexible through the end of this week – especially if you're still waist-deep in the website and need a minute to breathe and get your bearings again.</p>
 </div>
 
 * *Preparing for the final portfolio:*
@@ -241,7 +243,8 @@ EXT: If you have time now, you can get started on implementing your plan. We'll 
 
 <hr/>
 
+<div class="footnote-block">
+<p class="footnote"><a href="#ftnref1" id="ftn1" class="ftn">[1]</a> Twine is a digital platform for storyboarding interactive narratives, and the output of that platform is <em>a</em> Twine. You can think of a Twine as a game, or as a choose-your-own-adventure story. But it's not always adventure, not always a story... and not even always choice. I've recorded a roughly <a href="https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=692b738b-6b8a-431b-974f-ac0e013ce90c">10-minute screencast intro to Twine</a> and why I think it's useful now, which you can check out later if you're intrigued. But in a nutshell, it allows you to apply your knowledge of html and css, and the affordances of sound and/or image, in a shared context that's also pretty fun. <a href="#ftnref1"><em>~jump back~</em></a></p>
 
-<p class="footnote"><a href="#ftnref1" id="ftn1">[1]</a> Twine is a digital platform for storyboarding interactive narratives, and the output of that platform is <em>a</em> Twine. You can think of a Twine as a game, or as a choose-your-own-adventure story. But it's not always adventure, not always a story... and not even always choice. I've recorded a roughly <a href="https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=692b738b-6b8a-431b-974f-ac0e013ce90c">10-minute screencast intro to Twine</a> and why I think it's useful now, which you can check out later if you're intrigued. But in a nutshell, it allows you to apply your knowledge of html and css, and the affordances of sound and/or image, in a shared context that's also pretty fun. <a href="#ftnref1"><em>~jump back~</em></a></p>
-
-<p class="footnote"><a href="#ftnref2" id="ftn2">[2]</a> If you're updating an existing project, I recommend doing this in a <a href="https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/managing-branches">new branch</a> of the old repository, instead. <a href="#ftnref2"><em>~jump back~</em></a></p>
+<p class="footnote"><a href="#ftnref2" id="ftn2" class="ftn">[2]</a> If you're updating an existing project, I recommend doing this in a <a href="https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/managing-branches">new branch</a> of the old repository, instead. <a href="#ftnref2"><em>~jump back~</em></a></p>
+</div>

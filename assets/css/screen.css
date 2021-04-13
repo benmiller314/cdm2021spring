@@ -145,9 +145,9 @@ h1::before, h2::before, h3::before, h4::before, #content::before {
 }
 
 /* Footnotes */
-.ftnref {
+.ftnref, .ftn {
     font-size: .83em;
-    line-height: 0.5em;
+    /* line-height: 0.5em; */
     vertical-align: baseline;
     position: relative;
     top: -0.4em;
@@ -156,6 +156,11 @@ h1::before, h2::before, h3::before, h4::before, #content::before {
 .footnote-block {
 	margin: 2.5em 0;
 	font-size: 0.8em;
+}
+
+.footnote {
+  text-indent: -1.4em;
+  margin-left: 1em;
 }
 
 /* Images. Add padding, don't overflow column, maintain aspect ratio. */

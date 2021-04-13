@@ -186,7 +186,7 @@ If this sounds intriguing, I encourage you to look at the <a href="../resources#
 <p>That said, if you're still finalizing your website, you can use this time to do that work – and to ask questions, while I'm available to help.</p>
 </div>
 
-Use the [shared google doc](http://bit.ly/cdm2021spring-notes) to state your goals for the working session, and come back to add an exit note at 4:00, as usual.
+Use the [shared google doc](http://bit.ly/cdm2021spring-notes#heading=h.f0sh5csl9d1b) to state your goals for the working session, and come back to add an exit note at 4:00, as usual.
 
 ### Generative writing
 
@@ -233,7 +233,7 @@ See if you can summon up the whole of this idea, like it's right here in the roo
 
 Now that you've spent some time discovering your thoughts for yourself, it's time to share them with others – and, possibly, to recruit some likeminded co-travelers.
 
-Taking public notes now in the [google doc](http://bit.ly/cdm2021spring-notes), **work your way toward developing a task list for your project**:
+Taking public notes now in the [google doc](http://bit.ly/cdm2021spring-notes#heading=h.cuikuo88l7n2), **work your way toward developing a task list for your project**:
 
 * What are the parts of the project?
 * What assets will you need to find?

@@ -350,7 +350,7 @@ For next time:
 
 For next time:
 * Finish consolidation project by Sunday, if you haven't yet
-* Work to complete your final portfolio (due in our final exam slot, which we now know is Monday, November 30th – the first Monday after Thanksgiving – at 2pm)
+* Work to complete your final portfolio (due in our final exam slot, which we now know is **Tuesday, April 27 at noon**)
 
 
 <div class="footnote-block" style="margin-top:3em;">

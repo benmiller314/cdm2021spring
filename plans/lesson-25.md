@@ -76,3 +76,4 @@ I'll float around once I'm no longer helping folks in the main room. Call me if 
 * If you haven't yet done so, please do the Ford reading and commit history activity from [last class](lesson-24#homework-for-next-time)
 * Have you also considered reading back through your studio goals in [the google doc](http://bit.ly/cdm2021spring-notes)?
 * Continue with whatever work you set out for yourself to consolidate, integrate, and ideally deepen your learning this semester.
+* Post a preview – a beginning – to a repo you've told me about in your proposal.

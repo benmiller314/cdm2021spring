@@ -27,6 +27,10 @@ Given those goals, and given the possibility of considerably different skillsets
 
 I'd like to propose some possibilities, and spend a little time as a class working out the kinks. Let's head over to the [shared google doc](http://bit.ly/cdm2021spring-notes#heading=h.hthy0jahjkvz).
 
+<div class="alert alert-info">
+NB: There is no separate reflection deadline for the consolidation unit; you can just include that in the final reflection for the semester.
+</div>
+
 
 ## 2. Brainstorming
 
@@ -55,11 +59,17 @@ To give soloists the maximum studio time, I'm starting out by creating 20 breako
 When you're ready to move on, I'll get out of your way! As is our custom, please write down your studio goals at the beginning of your work-session, and come back at the end with an update and a target for the weekend.
 
 <div class="alert alert-warning">
-p.s. If your plans for the unit haven't posted to the <a href="https://github.com/benmiller314/cdm2021spring/issues/15">consolidation unit proposal queue</a> (a groupmate's post is fine if you're included), please aim to do so by the end of today's class.
+p.s. If your plans for the unit haven't been posted to the <a href="https://github.com/benmiller314/cdm2021spring/issues/15">consolidation unit proposal queue</a> (a groupmate's post is fine if you're included), please aim to do so by the end of today's class.
 </div>
 
-I'll float around once I'm no longer helping folks in the main room. Call me if you need me!
+### Resources
 
+Since a few people have mentioned wanting to make their own logos, you might be interested in the [relevant tutorial series on the Resources page](../resources#logo-design).
+
+Let me know if you find any more!
+
+
+I'll float around once I'm no longer helping folks in the main room. Call me if you need me!
 
 
 ## Homework for next time

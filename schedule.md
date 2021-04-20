@@ -344,7 +344,7 @@ For next time:
 
 
 
-<h3><a href="{{site.github_url}}/plans/lesson-27">Lesson 27, Thursday 4/22</a> – Last day of class! Looking back and looking forward</h3>
+<h3 id="final"><a href="{{site.github_url}}/plans/lesson-27">Lesson 27, Thursday 4/22</a> – Last day of class! Looking back and looking forward</h3>
 
 <!-- Asynchronous writing toward final portfolio reflection -->
 

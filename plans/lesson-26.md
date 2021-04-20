@@ -8,12 +8,14 @@
 2. Studio (45-60 min)
 3. Plan for final class (in two days!!) (5 min)
 
+
+## Reminder and Guiding Questions
 As we have for each individual unit, for the final portfolio I’m asking you to write reflectively about the course and your work in it, crystalizing what you’ve learned – and how you will go on learning – about composing digital media.
 
 <details><summary>Click to expand a reminder of the portfolio contents</summary>
 
 <div class="alert alert-white">
-The final portfolio itself will consist of a single post on the <a href="{{site.github.issues_url}}">issue queue</a> (thread coming soon), containing:
+The final portfolio itself will consist of a single post on the <a href="{{site.github.issues_url}}">issue queue</a> (thread now live!), containing:
 
 <ul>
   <li>a <strong>prose reflection</strong> of at least 800-1200 words (1200-1800 recommended), reflecting on the course and framing the portfolio’s contents in terms of your learning and goals;</li>
@@ -77,7 +79,7 @@ Have questions about all that? You're probably not alone! If you can't ask durin
 ## Studio
 This is where I expect we'll spend the bulk of today's synchronous time. As usual, please...
 
-1. Write your goals [in the google doc](http://bit.ly/cdm2021spring-notes)
+1. Write your goals [in the google doc](http://bit.ly/cdm2021spring-notes#heading=h.8qbmymj5j9yy)
 2. Save five minutes at the end to talk about prep for next class
 3. Leave an exit note to report on progress and re-set goals for moving forward.
 

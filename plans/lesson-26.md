@@ -1,4 +1,4 @@
-# Consolidation Unit Studio / Preparing the Final Reflective Letter
+# Consolidation Unit Studio / Guidance for the Final Reflective Letter
 
 **Work to have done**: <!-- respond to an updated version of the [Tech Comfort Survey](http://bit.ly/cdm-tech-survey); -->Read Paul Ford [on the pleasures of reading git commit histories](https://www.nytimes.com/2019/06/11/magazine/letter-of-recommendation-bug-fixes-git.html); maybe read back through your old notes (in the [google doc](http://bit.ly/cdm2021spring-notes); begin preparing for your final portfolio and a consolidation project to include in it; .
 
@@ -82,6 +82,10 @@ This is where I expect we'll spend the bulk of today's synchronous time. As usua
 3. Leave an exit note to report on progress and re-set goals for moving forward.
 
 Like last time, I'll have free-access breakout rooms for finding each other, and I'll hang out in the main room unless people need one-on-one time (when we can go to an extra room set aside for that purpose).
+
+<div class="alert alert-warning">
+As usual, to get credit for asynchronous participation, please add your intentions and exit notes to the google doc when you start and stop working – and aim to work for at least two 20-minute pomodoros.
+</div>
 
 
 ## Plan for final class (in two days!!)

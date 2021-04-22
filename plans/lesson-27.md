@@ -51,7 +51,7 @@ Some people have historically asked  questions that maybe you have floating arou
 
 <pre><code class="language-Markdown">**Soundscape thumbnail:**
 
-![name-of-file.png](somecrazylongURLthatGitHubauto-generates]
+![name-of-file.png](https://somecrazylongURLthatGitHubauto-generates]
 
 [Link to soundscape file](https://github.com/username/repo/blob/master/name-of-playable-file.mp3)
 [Link to soundscape repository](https://github.com/username/repo)
@@ -65,13 +65,20 @@ Some people have historically asked  questions that maybe you have floating arou
 
 </details>
 
-### About OMETs
-<details><summary>OMETs are a pretty important way of getting your voices heard; they can also have some pretty outsized effects on your teachers' lives.</summary>
+Anything else you're wondering?
 
-I know some of you have already turned in your surveys for the Office of Measurement and Evaluation of Teaching (yep, that's what OMET stands for). If so, you can feel free to work on your own projects, though I hope what I'm about to say is still useful information. Actually, I hope you all know this stuff already, but my experience has been otherwise, so I try to say it in every class:
+### About OMETs
+
+OMETs are a pretty important way of getting your voices heard; they can also have some pretty outsized effects on your teachers' lives.
+
+<details><summary>Expand to read more.</summary>
+
+I know some of you have already turned in your surveys for the Office of Measurement and Evaluation of Teaching (yep, that's what OMET stands for). If so, you can feel free to work on your own projects, though I hope what I'm about to say is still useful information.
+
+Actually, I hope you all know this stuff already, but my experience has been otherwise, so I try to say it in every class:
 
 <div class="alert alert-info">
-Remember that these evaluations of teaching serve multiple purposes, and go to multiple audiences:
+These evaluations of teaching serve multiple purposes, and go to multiple audiences:
 <ul>
 <li>They'll go to my program director, to help determine if I should keep teaching this course; <!-- for adjuncts, that may make the difference in whether they get renewed again at all --></li>
 <li>they'll become part of my portfolio application for tenure, read by other faculty inside and outside my department; <!-- again: renewal. also: promotion --></li>
@@ -81,12 +88,13 @@ Remember that these evaluations of teaching serve multiple purposes, and go to m
 
 The same is true for all your professors. For adjunct professors, OMET reviews may make the difference in whether they get renewed again at all.
 
-So the OMETs are, as I said above, a pretty important way of getting your voices heard, which is a good thing; on the other hand, they can also powerfully affect hiring, especially for women, immigrants, and people of color. <strong>Please do your best to be fair, to be thoughtful, and to be considerate of how things like race, gender, and linguistic difference might color your responses.</strong> (Implicit biases can often be countered by bringing them to consciousness.)
+So the OMETs are, as I said above, a pretty important way of getting your voices heard, which is a good thing; on the other hand, they can also powerfully affect hiring, especially for women, immigrants, and people of color.
 
 <div class="alert alert-success">
 If you haven't yet filled out your survey, please do so now. You should have a link to the survey on Canvas, or in your Pitt email.</div>
-
 </details>
+
+But in brief: please do fill these out, but <strong>please do your best to be fair, to be thoughtful, and to be considerate of how things like race, gender, and linguistic difference might color your responses.</strong> (Implicit biases can often be countered by bringing them to consciousness.)
 
 EXT 1: I know some of you may already have filled out the end-of-semester version of the <a href="http://bit.ly/cdm-tech-survey">Tech Comfort Survey</a>, but if you haven't, I hope you'll consider doing so now.
 
@@ -102,6 +110,7 @@ As usual, please...
 
 1. Write your goals [in the google doc](http://bit.ly/cdm2021spring-notes)
 2. Expect to leave an exit note to report on progress and re-set goals for moving forward.
+3. Save an extra couple of minutes at the end of class, to bring us back together, for closure.
 
 I'll once again make breakout rooms for maximum flexibility, and otherwise hang out in the main room unless people need one-on-one time (when we can go to an extra room set aside for that purpose).
 

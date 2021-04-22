@@ -281,6 +281,7 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 <li><a href="https://css-tricks.com/the-power-of-rgba/">The power of rgba()</a></li>
 <li><a href="https://css-tricks.com/theming-with-variables-globals-and-locals/">Theming with variables</a></li>
 <li><a href="https://css-tricks.com/css-variables-calc-rgb-enforcing-high-contrast-colors/">CSS variables + calc() + rgb(): enforcing high-contrast colors</a></li>
+<li>This one's not from CSS-Tricks, but they linked to it, and it's cool: <a href="https://web.dev/building-a-sidenav-component/">Building a SideNav Component</a></li>
 </ul>
 </p>
 </dd>

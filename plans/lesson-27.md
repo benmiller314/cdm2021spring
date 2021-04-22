@@ -96,7 +96,7 @@ If you haven't yet filled out your survey, please do so now. You should have a l
 
 But in brief: please do fill these out, but <strong>please do your best to be fair, to be thoughtful, and to be considerate of how things like race, gender, and linguistic difference might color your responses.</strong> (Implicit biases can often be countered by bringing them to consciousness.)
 
-EXT 1: I know some of you may already have filled out the end-of-semester version of the <a href="http://bit.ly/cdm-tech-survey">Tech Comfort Survey</a>, but if you haven't, I hope you'll consider doing so now.
+EXT 1: I know some of you may already have filled out the end-of-semester version of the <a href="http://bit.ly/cdm-tech-comfort-redux">Tech Comfort Survey</a>, but if you haven't, I hope you'll consider doing so now.
 
 EXT 2: If you've done the Survey and the OMET to your satisfaction and you're waiting for your classmates to finish, you can use this time for solo work on your portfolio / revisions or your final reflection.
 
@@ -108,7 +108,7 @@ I'll turn off the Zoom recording and absent myself for a bit in a breakout room,
 
 As usual, please...
 
-1. Write your goals [in the google doc](http://bit.ly/cdm2021spring-notes)
+1. Write your goals [in the google doc](http://bit.ly/cdm2021spring-notes#heading=h.ep7n3lhbsf1m)
 2. Expect to leave an exit note to report on progress and re-set goals for moving forward.
 3. Save an extra couple of minutes at the end of class, to bring us back together, for closure.
 

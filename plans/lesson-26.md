@@ -44,8 +44,6 @@ The questions below are meant to help you develop your thoughts toward that firs
 
 <details open><summary>Guiding questions for the end-of-term reflection</summary>
 
-<p>NB: If at any point you’re tempted to say "all of it" (or “none,” though I hope that’s not true), that’s a fine start, but then prioritize: name something specific, so it's written somewhere you’ll be able to find it later.</p>
-
 <ol class="lalpha">
 <li><p>What advice or ideas have been most helpful to your thinking about composing, about digital environments or tools, about mediation? In other words, what do you most want to remember for future digital composition? </p>
 
@@ -63,6 +61,9 @@ The questions below are meant to help you develop your thoughts toward that firs
 
 <li><p>Moving forward, what are your plans for continuing to develop your digital media skills? Will you continue working on any of these projects, in other classes or outside class?</p></li>
 </ol>
+
+<p>NB: If at any point you’re tempted to say "all of it" (or “none,” though I hope that’s not true), that’s a fine start, but then prioritize: name something specific, so it's written somewhere you’ll be able to find it later.</p>
+
 </details>
 
 <div class="alert alert-info">

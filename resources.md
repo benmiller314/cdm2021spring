@@ -228,7 +228,7 @@ Under the <a href="#free-and-licensed-images-sounds-and-other-assets">assets lis
 Under the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listings</a> above, you might find FontSquirrel and The Noun Project especially pertinent here.
 <dl>
 <dt>GIMP Tutorials</dt>
-<dd>As with Audacity, the community making the tool knows it best, and so you can find quite a few intro-level tutorials on the GIMP site itself, at <a href="https://www.gimp.org/tutorials">www.gimp.org/tutorials</a>. These include "GIMP Quickies" and a tutorial on layer manipulation called "Simple Floating Logo." "Layer Masks" may also be useful, e.g. if you want to make an image fit into a specified shape or shadow.</dd>
+<dd>As with Audacity, the community making the tool knows it best, and so you can find quite a few intro-level tutorials on the GIMP site itself, at <a href="https://www.gimp.org/tutorials">www.gimp.org/tutorials</a>. These include "GIMP Quickies" and a tutorial on layer manipulation called "Simple Floating Logo." "Layer Masks" are also pretty important for non-destructive cropping, e.g. if you want to make an image fit into a specified shape, and still be able to edit the contours of what shows through.</dd>
 <dd>GIMP also has a separate <a href="https://docs.gimp.org/2.10/en/">user manual</a>.
     <div class="alert alert-info">If you get stuck, I highly recommend <strong><a href="https://docs.gimp.org/2.10/en/gimp-getting-unstuck.html">Chapter 4: Getting Unstuck</a></strong>!</div>
 </dd>
